@@ -1,0 +1,708 @@
+{
+  "table": "occupations",
+  "batch_start": 100,
+  "error": "{'code': '23505', 'details': 'Key (occupation_id)=(101) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"occupations_pkey\"'}",
+  "timestamp": "2024-12-06 15:01:24",
+  "data": [
+    {
+      "occupation_id": 101,
+      "person_id": "P1900_0001",
+      "record_id": 712,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 102,
+      "person_id": "P1900_000101",
+      "record_id": 713,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 103,
+      "person_id": "P1900_000102",
+      "record_id": 714,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 104,
+      "person_id": "P1900_000103",
+      "record_id": 715,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 105,
+      "person_id": "P1900_000104",
+      "record_id": 716,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 106,
+      "person_id": "P1900_000105",
+      "record_id": 717,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 107,
+      "person_id": "P1900_000106",
+      "record_id": 718,
+      "work": "Housekeeper",
+      "business": null
+    },
+    {
+      "occupation_id": 108,
+      "person_id": "P1900_000107",
+      "record_id": 719,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 109,
+      "person_id": "P1900_000108",
+      "record_id": 720,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 110,
+      "person_id": "P1900_000109",
+      "record_id": 721,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 111,
+      "person_id": "P1900_00011",
+      "record_id": 722,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 112,
+      "person_id": "P1900_000111",
+      "record_id": 723,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 113,
+      "person_id": "P1900_000112",
+      "record_id": 724,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 114,
+      "person_id": "P1900_000113",
+      "record_id": 725,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 115,
+      "person_id": "P1900_000114",
+      "record_id": 726,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 116,
+      "person_id": "P1900_000115",
+      "record_id": 727,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 117,
+      "person_id": "P1900_000116",
+      "record_id": 728,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 118,
+      "person_id": "P1900_000117",
+      "record_id": 729,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 119,
+      "person_id": "P1900_000118",
+      "record_id": 730,
+      "work": "Student",
+      "business": null
+    },
+    {
+      "occupation_id": 120,
+      "person_id": "P1900_000119",
+      "record_id": 731,
+      "work": "Student",
+      "business": null
+    },
+    {
+      "occupation_id": 121,
+      "person_id": "P1900_00012",
+      "record_id": 732,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 122,
+      "person_id": "P1900_000121",
+      "record_id": 733,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 123,
+      "person_id": "P1900_000122",
+      "record_id": 734,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 124,
+      "person_id": "P1900_000123",
+      "record_id": 735,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 125,
+      "person_id": "P1900_000124",
+      "record_id": 736,
+      "work": "Farm Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 126,
+      "person_id": "P1900_000125",
+      "record_id": 737,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 127,
+      "person_id": "P1900_000126",
+      "record_id": 738,
+      "work": "Housekeeper",
+      "business": null
+    },
+    {
+      "occupation_id": 128,
+      "person_id": "P1900_000127",
+      "record_id": 739,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 129,
+      "person_id": "P1900_000128",
+      "record_id": 740,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 130,
+      "person_id": "P1900_000129",
+      "record_id": 741,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 131,
+      "person_id": "P1900_00013",
+      "record_id": 742,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 132,
+      "person_id": "P1900_000131",
+      "record_id": 743,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 133,
+      "person_id": "P1900_000132",
+      "record_id": 744,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 134,
+      "person_id": "P1900_000133",
+      "record_id": 745,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 135,
+      "person_id": "P1900_000134",
+      "record_id": 746,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 136,
+      "person_id": "P1900_000135",
+      "record_id": 747,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 137,
+      "person_id": "P1900_000136",
+      "record_id": 748,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 138,
+      "person_id": "P1900_000137",
+      "record_id": 749,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 139,
+      "person_id": "P1900_000138",
+      "record_id": 750,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 140,
+      "person_id": "P1900_000139",
+      "record_id": 751,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 141,
+      "person_id": "P1900_00014",
+      "record_id": 752,
+      "work": "Student",
+      "business": null
+    },
+    {
+      "occupation_id": 142,
+      "person_id": "P1900_000141",
+      "record_id": 753,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 143,
+      "person_id": "P1900_000142",
+      "record_id": 754,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 144,
+      "person_id": "P1900_000143",
+      "record_id": 755,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 145,
+      "person_id": "P1900_000144",
+      "record_id": 756,
+      "work": "Domestic Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 146,
+      "person_id": "P1900_000145",
+      "record_id": 757,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 147,
+      "person_id": "P1900_000146",
+      "record_id": 758,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 148,
+      "person_id": "P1900_000147",
+      "record_id": 759,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 149,
+      "person_id": "P1900_000148",
+      "record_id": 760,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 150,
+      "person_id": "P1900_000149",
+      "record_id": 761,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 151,
+      "person_id": "P1900_00015",
+      "record_id": 762,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 152,
+      "person_id": "P1900_000151",
+      "record_id": 763,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 153,
+      "person_id": "P1900_000152",
+      "record_id": 764,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 154,
+      "person_id": "P1900_000153",
+      "record_id": 765,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 155,
+      "person_id": "P1900_000154",
+      "record_id": 766,
+      "work": "Farm Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 156,
+      "person_id": "P1900_000155",
+      "record_id": 767,
+      "work": "Day Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 157,
+      "person_id": "P1900_000156",
+      "record_id": 768,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 158,
+      "person_id": "P1900_000157",
+      "record_id": 769,
+      "work": "Student",
+      "business": null
+    },
+    {
+      "occupation_id": 159,
+      "person_id": "P1900_000158",
+      "record_id": 770,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 160,
+      "person_id": "P1900_000159",
+      "record_id": 771,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 161,
+      "person_id": "P1900_00016",
+      "record_id": 772,
+      "work": "Pressman (Factory Office)",
+      "business": null
+    },
+    {
+      "occupation_id": 162,
+      "person_id": "P1900_000161",
+      "record_id": 773,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 163,
+      "person_id": "P1900_000162",
+      "record_id": 774,
+      "work": "Servent",
+      "business": null
+    },
+    {
+      "occupation_id": 164,
+      "person_id": "P1900_000163",
+      "record_id": 775,
+      "work": "Farmer",
+      "business": null
+    },
+    {
+      "occupation_id": 165,
+      "person_id": "P1900_000164",
+      "record_id": 776,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 166,
+      "person_id": "P1900_000165",
+      "record_id": 777,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 167,
+      "person_id": "P1900_000166",
+      "record_id": 778,
+      "work": "Farm Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 168,
+      "person_id": "P1900_000167",
+      "record_id": 779,
+      "work": "Farm Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 169,
+      "person_id": "P1900_000168",
+      "record_id": 780,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 170,
+      "person_id": "P1900_000169",
+      "record_id": 781,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 171,
+      "person_id": "P1900_00017",
+      "record_id": 782,
+      "work": "Farm Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 172,
+      "person_id": "P1900_000171",
+      "record_id": 783,
+      "work": "Farm Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 173,
+      "person_id": "P1900_000172",
+      "record_id": 784,
+      "work": "At School",
+      "business": null
+    },
+    {
+      "occupation_id": 174,
+      "person_id": "P1900_000173",
+      "record_id": 785,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 175,
+      "person_id": "P1900_000174",
+      "record_id": 786,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 176,
+      "person_id": "P1900_000175",
+      "record_id": 787,
+      "work": "Farm Laborer",
+      "business": null
+    },
+    {
+      "occupation_id": 177,
+      "person_id": "P1900_000176",
+      "record_id": 788,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 178,
+      "person_id": "P1900_000177",
+      "record_id": 789,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 179,
+      "person_id": "P1900_000178",
+      "record_id": 790,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 180,
+      "person_id": "P1900_000179",
+      "record_id": 791,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 181,
+      "person_id": "P1900_00018",
+      "record_id": 792,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 182,
+      "person_id": "P1900_000181",
+      "record_id": 793,
+      "work": "Servant",
+      "business": null
+    },
+    {
+      "occupation_id": 183,
+      "person_id": "P1900_000182",
+      "record_id": 794,
+      "work": "Agent (Real Estate)",
+      "business": null
+    },
+    {
+      "occupation_id": 184,
+      "person_id": "P1900_000183",
+      "record_id": 795,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 185,
+      "person_id": "P1900_000184",
+      "record_id": 796,
+      "work": "Agent (Real Estate)",
+      "business": null
+    },
+    {
+      "occupation_id": 186,
+      "person_id": "P1900_000185",
+      "record_id": 797,
+      "work": "Teacher",
+      "business": null
+    },
+    {
+      "occupation_id": 187,
+      "person_id": "P1920_",
+      "record_id": 612,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 188,
+      "person_id": "P1920_000001",
+      "record_id": 613,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 189,
+      "person_id": "P1920_000002",
+      "record_id": 614,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 190,
+      "person_id": "P1920_000003",
+      "record_id": 615,
+      "work": "Cheff",
+      "business": "Maryland State College"
+    },
+    {
+      "occupation_id": 191,
+      "person_id": "P1920_000004",
+      "record_id": 616,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 192,
+      "person_id": "P1920_000005",
+      "record_id": 617,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 193,
+      "person_id": "P1920_000006",
+      "record_id": 618,
+      "work": "Wash and Iron",
+      "business": "At Home"
+    },
+    {
+      "occupation_id": 194,
+      "person_id": "P1920_000007",
+      "record_id": 619,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 195,
+      "person_id": "P1920_000008",
+      "record_id": 620,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 196,
+      "person_id": "P1920_000009",
+      "record_id": 621,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 197,
+      "person_id": "P1920_00001",
+      "record_id": 622,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 198,
+      "person_id": "P1920_000011",
+      "record_id": 623,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 199,
+      "person_id": "P1920_000012",
+      "record_id": 624,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 200,
+      "person_id": "P1920_000013",
+      "record_id": 625,
+      "work": "Housework",
+      "business": "Private Family"
+    }
+  ]
+}

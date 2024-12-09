@@ -1,0 +1,484 @@
+{
+  "table": "families",
+  "batch_start": 400,
+  "error": "{'code': '23505', 'details': 'Key (family_id)=(F1950_000246) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"families_pkey\"'}",
+  "timestamp": "2024-12-06 14:49:46",
+  "data": [
+    {
+      "family_id": "F1950_000246",
+      "record_id": 730,
+      "location_id": 730,
+      "head_first_name": "MS",
+      "head_last_name": "Spriggs"
+    },
+    {
+      "family_id": "F1950_000247",
+      "record_id": 731,
+      "location_id": 731,
+      "head_first_name": "MS",
+      "head_last_name": "Spriggs"
+    },
+    {
+      "family_id": "F1950_000248",
+      "record_id": 732,
+      "location_id": 732,
+      "head_first_name": "Randall",
+      "head_last_name": "Ellen"
+    },
+    {
+      "family_id": "F1950_000249",
+      "record_id": 733,
+      "location_id": 733,
+      "head_first_name": "George",
+      "head_last_name": "Parham"
+    },
+    {
+      "family_id": "F1950_00025",
+      "record_id": 734,
+      "location_id": 734,
+      "head_first_name": "George",
+      "head_last_name": "Parham"
+    },
+    {
+      "family_id": "F1950_000251",
+      "record_id": 735,
+      "location_id": 735,
+      "head_first_name": "George",
+      "head_last_name": "Parham"
+    },
+    {
+      "family_id": "F1950_000252",
+      "record_id": 736,
+      "location_id": 736,
+      "head_first_name": "George",
+      "head_last_name": "Parham"
+    },
+    {
+      "family_id": "F1950_000253",
+      "record_id": 737,
+      "location_id": 737,
+      "head_first_name": "James H",
+      "head_last_name": "Gray"
+    },
+    {
+      "family_id": "F1950_000254",
+      "record_id": 738,
+      "location_id": 738,
+      "head_first_name": "James H",
+      "head_last_name": "Gray"
+    },
+    {
+      "family_id": "F1950_000255",
+      "record_id": 739,
+      "location_id": 739,
+      "head_first_name": "James H",
+      "head_last_name": "Gray"
+    },
+    {
+      "family_id": "F1950_000256",
+      "record_id": 740,
+      "location_id": 740,
+      "head_first_name": "James H",
+      "head_last_name": "Gray"
+    },
+    {
+      "family_id": "F1950_000257",
+      "record_id": 741,
+      "location_id": 741,
+      "head_first_name": "James H",
+      "head_last_name": "Gray"
+    },
+    {
+      "family_id": "F1950_000258",
+      "record_id": 742,
+      "location_id": 742,
+      "head_first_name": "Willie",
+      "head_last_name": "Laney"
+    },
+    {
+      "family_id": "F1950_000259",
+      "record_id": 743,
+      "location_id": 743,
+      "head_first_name": "Randall",
+      "head_last_name": "Ellen"
+    },
+    {
+      "family_id": "F1950_00026",
+      "record_id": 744,
+      "location_id": 744,
+      "head_first_name": "Willie",
+      "head_last_name": "Laney"
+    },
+    {
+      "family_id": "F1950_000261",
+      "record_id": 745,
+      "location_id": 745,
+      "head_first_name": "Joseph",
+      "head_last_name": "Campbell"
+    },
+    {
+      "family_id": "F1950_000262",
+      "record_id": 746,
+      "location_id": 746,
+      "head_first_name": "Joseph",
+      "head_last_name": "Campbell"
+    },
+    {
+      "family_id": "F1950_000263",
+      "record_id": 747,
+      "location_id": 747,
+      "head_first_name": "Joseph",
+      "head_last_name": "Campbell"
+    },
+    {
+      "family_id": "F1950_000264",
+      "record_id": 748,
+      "location_id": 748,
+      "head_first_name": "George H",
+      "head_last_name": "Gross"
+    },
+    {
+      "family_id": "F1950_000265",
+      "record_id": 749,
+      "location_id": 749,
+      "head_first_name": "George H",
+      "head_last_name": "Gross"
+    },
+    {
+      "family_id": "F1950_000266",
+      "record_id": 750,
+      "location_id": 750,
+      "head_first_name": "George",
+      "head_last_name": "Gross"
+    },
+    {
+      "family_id": "F1950_000267",
+      "record_id": 751,
+      "location_id": 751,
+      "head_first_name": "Henry",
+      "head_last_name": "Thompson"
+    },
+    {
+      "family_id": "F1950_000268",
+      "record_id": 752,
+      "location_id": 752,
+      "head_first_name": "Henry",
+      "head_last_name": "Thompson"
+    },
+    {
+      "family_id": "F1950_000269",
+      "record_id": 753,
+      "location_id": 753,
+      "head_first_name": "Benjamin",
+      "head_last_name": "Briscoe"
+    },
+    {
+      "family_id": "F1950_00027",
+      "record_id": 754,
+      "location_id": 754,
+      "head_first_name": "Randall",
+      "head_last_name": "Ellen"
+    },
+    {
+      "family_id": "F1950_000271",
+      "record_id": 755,
+      "location_id": 755,
+      "head_first_name": "Benjamin",
+      "head_last_name": "Briscoe"
+    },
+    {
+      "family_id": "F1950_000272",
+      "record_id": 756,
+      "location_id": 756,
+      "head_first_name": "Benjamin",
+      "head_last_name": "Broscoe"
+    },
+    {
+      "family_id": "F1950_000273",
+      "record_id": 757,
+      "location_id": 757,
+      "head_first_name": "Benjamin",
+      "head_last_name": "Briscoe"
+    },
+    {
+      "family_id": "F1950_000274",
+      "record_id": 758,
+      "location_id": 758,
+      "head_first_name": "Benjamin",
+      "head_last_name": "Briscoe"
+    },
+    {
+      "family_id": "F1950_000275",
+      "record_id": 759,
+      "location_id": 759,
+      "head_first_name": "Benjamin",
+      "head_last_name": "Briscoe"
+    },
+    {
+      "family_id": "F1950_000276",
+      "record_id": 760,
+      "location_id": 760,
+      "head_first_name": "Benjamin",
+      "head_last_name": "Briscoe"
+    },
+    {
+      "family_id": "F1950_000277",
+      "record_id": 761,
+      "location_id": 761,
+      "head_first_name": "Samuel",
+      "head_last_name": "Thomas"
+    },
+    {
+      "family_id": "F1950_000278",
+      "record_id": 762,
+      "location_id": 762,
+      "head_first_name": "Samuel",
+      "head_last_name": "Thomas"
+    },
+    {
+      "family_id": "F1950_000279",
+      "record_id": 763,
+      "location_id": 763,
+      "head_first_name": "Samuel",
+      "head_last_name": "Thomas"
+    },
+    {
+      "family_id": "F1950_00028",
+      "record_id": 764,
+      "location_id": 764,
+      "head_first_name": "Unknown",
+      "head_last_name": "Unknown"
+    },
+    {
+      "family_id": "F1950_000281",
+      "record_id": 765,
+      "location_id": 765,
+      "head_first_name": "Randall",
+      "head_last_name": "Ellen"
+    },
+    {
+      "family_id": "F1950_000282",
+      "record_id": 766,
+      "location_id": 766,
+      "head_first_name": "Marcelius",
+      "head_last_name": "Cordova"
+    },
+    {
+      "family_id": "F1950_000283",
+      "record_id": 767,
+      "location_id": 767,
+      "head_first_name": "Marcelius",
+      "head_last_name": "Cordova"
+    },
+    {
+      "family_id": "F1950_000284",
+      "record_id": 768,
+      "location_id": 768,
+      "head_first_name": "Edward",
+      "head_last_name": "Sands"
+    },
+    {
+      "family_id": "F1950_000285",
+      "record_id": 769,
+      "location_id": 769,
+      "head_first_name": "Edward",
+      "head_last_name": "Sands"
+    },
+    {
+      "family_id": "F1950_000286",
+      "record_id": 770,
+      "location_id": 770,
+      "head_first_name": "Edward",
+      "head_last_name": "Sands"
+    },
+    {
+      "family_id": "F1950_000287",
+      "record_id": 771,
+      "location_id": 771,
+      "head_first_name": "Edward",
+      "head_last_name": "Potts"
+    },
+    {
+      "family_id": "F1950_000288",
+      "record_id": 772,
+      "location_id": 772,
+      "head_first_name": "Edward",
+      "head_last_name": "Potts"
+    },
+    {
+      "family_id": "F1950_000289",
+      "record_id": 773,
+      "location_id": 773,
+      "head_first_name": "Edward",
+      "head_last_name": "Potts"
+    },
+    {
+      "family_id": "F1950_00029",
+      "record_id": 774,
+      "location_id": 774,
+      "head_first_name": "Edward",
+      "head_last_name": "Potts"
+    },
+    {
+      "family_id": "F1950_000291",
+      "record_id": 775,
+      "location_id": 775,
+      "head_first_name": "Edward",
+      "head_last_name": "Potts"
+    },
+    {
+      "family_id": "F1950_000292",
+      "record_id": 776,
+      "location_id": 776,
+      "head_first_name": "Charles",
+      "head_last_name": "Strand"
+    },
+    {
+      "family_id": "F1950_000293",
+      "record_id": 777,
+      "location_id": 777,
+      "head_first_name": "Edward",
+      "head_last_name": "Potts"
+    },
+    {
+      "family_id": "F1950_000294",
+      "record_id": 778,
+      "location_id": 778,
+      "head_first_name": "Edward",
+      "head_last_name": "Potts"
+    },
+    {
+      "family_id": "F1950_000295",
+      "record_id": 779,
+      "location_id": 779,
+      "head_first_name": "Bertha",
+      "head_last_name": "Johnson"
+    },
+    {
+      "family_id": "F1950_000296",
+      "record_id": 780,
+      "location_id": 780,
+      "head_first_name": "Bertha",
+      "head_last_name": "Johnson"
+    },
+    {
+      "family_id": "F1950_000297",
+      "record_id": 781,
+      "location_id": 781,
+      "head_first_name": "Bertha",
+      "head_last_name": "Johnson"
+    },
+    {
+      "family_id": "F1950_000298",
+      "record_id": 782,
+      "location_id": 782,
+      "head_first_name": "Bertha",
+      "head_last_name": "Johnson"
+    },
+    {
+      "family_id": "F1950_000299",
+      "record_id": 783,
+      "location_id": 783,
+      "head_first_name": "Emma",
+      "head_last_name": "Conway"
+    },
+    {
+      "family_id": "F1950_0003",
+      "record_id": 784,
+      "location_id": 784,
+      "head_first_name": "Nettie",
+      "head_last_name": "Stewart"
+    },
+    {
+      "family_id": "F1950_000301",
+      "record_id": 785,
+      "location_id": 785,
+      "head_first_name": "Nettie",
+      "head_last_name": "Stewart"
+    },
+    {
+      "family_id": "F1950_000302",
+      "record_id": 786,
+      "location_id": 786,
+      "head_first_name": "Nettie",
+      "head_last_name": "Stewart"
+    },
+    {
+      "family_id": "F1950_000303",
+      "record_id": 787,
+      "location_id": 787,
+      "head_first_name": "Charles",
+      "head_last_name": "Strand"
+    },
+    {
+      "family_id": "F1950_000304",
+      "record_id": 788,
+      "location_id": 788,
+      "head_first_name": "Nettie",
+      "head_last_name": "Stewart"
+    },
+    {
+      "family_id": "F1950_000305",
+      "record_id": 789,
+      "location_id": 789,
+      "head_first_name": "Ed",
+      "head_last_name": "Dunston"
+    },
+    {
+      "family_id": "F1950_000306",
+      "record_id": 790,
+      "location_id": 790,
+      "head_first_name": "Ed",
+      "head_last_name": "Dunston"
+    },
+    {
+      "family_id": "F1950_000307",
+      "record_id": 791,
+      "location_id": 791,
+      "head_first_name": "Julia",
+      "head_last_name": "Carroll"
+    },
+    {
+      "family_id": "F1950_000308",
+      "record_id": 792,
+      "location_id": 792,
+      "head_first_name": "Julia",
+      "head_last_name": "Carroll"
+    },
+    {
+      "family_id": "F1950_000309",
+      "record_id": 793,
+      "location_id": 793,
+      "head_first_name": "Chesley",
+      "head_last_name": "Mack"
+    },
+    {
+      "family_id": "F1950_00031",
+      "record_id": 794,
+      "location_id": 794,
+      "head_first_name": "Chesley",
+      "head_last_name": "Mack"
+    },
+    {
+      "family_id": "F1950_000311",
+      "record_id": 795,
+      "location_id": 795,
+      "head_first_name": "Chesley",
+      "head_last_name": "Mack"
+    },
+    {
+      "family_id": "F1950_000312",
+      "record_id": 796,
+      "location_id": 796,
+      "head_first_name": "Chesley",
+      "head_last_name": "Mack"
+    },
+    {
+      "family_id": "F1950_000313",
+      "record_id": 797,
+      "location_id": 797,
+      "head_first_name": "Chesley",
+      "head_last_name": "Mack"
+    }
+  ]
+}

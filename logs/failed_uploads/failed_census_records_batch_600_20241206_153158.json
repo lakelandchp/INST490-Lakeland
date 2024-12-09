@@ -1,0 +1,708 @@
+{
+  "table": "census_records",
+  "batch_start": 600,
+  "error": "{'code': '23505', 'details': 'Key (record_id)=(601) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"census_records_pkey\"'}",
+  "timestamp": "2024-12-06 15:31:58",
+  "data": [
+    {
+      "record_id": 601,
+      "census_year": 1950,
+      "source_pk": 118,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 602,
+      "census_year": 1950,
+      "source_pk": 119,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 603,
+      "census_year": 1950,
+      "source_pk": 120,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 604,
+      "census_year": 1950,
+      "source_pk": 121,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 605,
+      "census_year": 1950,
+      "source_pk": 122,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 606,
+      "census_year": 1950,
+      "source_pk": 123,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 607,
+      "census_year": 1950,
+      "source_pk": 124,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 608,
+      "census_year": 1950,
+      "source_pk": 125,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 609,
+      "census_year": 1950,
+      "source_pk": 126,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 610,
+      "census_year": 1950,
+      "source_pk": 127,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 611,
+      "census_year": 1950,
+      "source_pk": 128,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 612,
+      "census_year": 1950,
+      "source_pk": 129,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 613,
+      "census_year": 1950,
+      "source_pk": 130,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 614,
+      "census_year": 1950,
+      "source_pk": 131,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 615,
+      "census_year": 1950,
+      "source_pk": 132,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 616,
+      "census_year": 1950,
+      "source_pk": 133,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 617,
+      "census_year": 1950,
+      "source_pk": 134,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 618,
+      "census_year": 1950,
+      "source_pk": 135,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 619,
+      "census_year": 1950,
+      "source_pk": 136,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 620,
+      "census_year": 1950,
+      "source_pk": 137,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 621,
+      "census_year": 1950,
+      "source_pk": 138,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 622,
+      "census_year": 1950,
+      "source_pk": 139,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 623,
+      "census_year": 1950,
+      "source_pk": 140,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 624,
+      "census_year": 1950,
+      "source_pk": 141,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 625,
+      "census_year": 1950,
+      "source_pk": 142,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 626,
+      "census_year": 1950,
+      "source_pk": 143,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 627,
+      "census_year": 1950,
+      "source_pk": 144,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 628,
+      "census_year": 1950,
+      "source_pk": 145,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 629,
+      "census_year": 1950,
+      "source_pk": 146,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 630,
+      "census_year": 1950,
+      "source_pk": 147,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 631,
+      "census_year": 1950,
+      "source_pk": 148,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 632,
+      "census_year": 1950,
+      "source_pk": 149,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 633,
+      "census_year": 1950,
+      "source_pk": 150,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 634,
+      "census_year": 1950,
+      "source_pk": 151,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 635,
+      "census_year": 1950,
+      "source_pk": 152,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 636,
+      "census_year": 1950,
+      "source_pk": 153,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 637,
+      "census_year": 1950,
+      "source_pk": 154,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 638,
+      "census_year": 1950,
+      "source_pk": 155,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 639,
+      "census_year": 1950,
+      "source_pk": 156,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 640,
+      "census_year": 1950,
+      "source_pk": 157,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 641,
+      "census_year": 1950,
+      "source_pk": 158,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 642,
+      "census_year": 1950,
+      "source_pk": 159,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 643,
+      "census_year": 1950,
+      "source_pk": 160,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 644,
+      "census_year": 1950,
+      "source_pk": 161,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 645,
+      "census_year": 1950,
+      "source_pk": 162,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 646,
+      "census_year": 1950,
+      "source_pk": 163,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 647,
+      "census_year": 1950,
+      "source_pk": 164,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 648,
+      "census_year": 1950,
+      "source_pk": 165,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 649,
+      "census_year": 1950,
+      "source_pk": 166,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 650,
+      "census_year": 1950,
+      "source_pk": 167,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 651,
+      "census_year": 1950,
+      "source_pk": 168,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 652,
+      "census_year": 1950,
+      "source_pk": 169,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 653,
+      "census_year": 1950,
+      "source_pk": 170,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 654,
+      "census_year": 1950,
+      "source_pk": 171,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 655,
+      "census_year": 1950,
+      "source_pk": 172,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 656,
+      "census_year": 1950,
+      "source_pk": 173,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 657,
+      "census_year": 1950,
+      "source_pk": 174,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 658,
+      "census_year": 1950,
+      "source_pk": 175,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 659,
+      "census_year": 1950,
+      "source_pk": 176,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 660,
+      "census_year": 1950,
+      "source_pk": 177,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 661,
+      "census_year": 1950,
+      "source_pk": 178,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 662,
+      "census_year": 1950,
+      "source_pk": 179,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 663,
+      "census_year": 1950,
+      "source_pk": 180,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 664,
+      "census_year": 1950,
+      "source_pk": 181,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 665,
+      "census_year": 1950,
+      "source_pk": 182,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 666,
+      "census_year": 1950,
+      "source_pk": 183,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 667,
+      "census_year": 1950,
+      "source_pk": 184,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 668,
+      "census_year": 1950,
+      "source_pk": 185,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 669,
+      "census_year": 1950,
+      "source_pk": 186,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 670,
+      "census_year": 1950,
+      "source_pk": 187,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 671,
+      "census_year": 1950,
+      "source_pk": 188,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 672,
+      "census_year": 1950,
+      "source_pk": 189,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 673,
+      "census_year": 1950,
+      "source_pk": 190,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 674,
+      "census_year": 1950,
+      "source_pk": 191,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 675,
+      "census_year": 1950,
+      "source_pk": 192,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 676,
+      "census_year": 1950,
+      "source_pk": 193,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 677,
+      "census_year": 1950,
+      "source_pk": 194,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 678,
+      "census_year": 1950,
+      "source_pk": 195,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 679,
+      "census_year": 1950,
+      "source_pk": 196,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 680,
+      "census_year": 1950,
+      "source_pk": 197,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 681,
+      "census_year": 1950,
+      "source_pk": 198,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 682,
+      "census_year": 1950,
+      "source_pk": 199,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 683,
+      "census_year": 1950,
+      "source_pk": 200,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 684,
+      "census_year": 1950,
+      "source_pk": 201,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 685,
+      "census_year": 1950,
+      "source_pk": 202,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 686,
+      "census_year": 1950,
+      "source_pk": 203,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 687,
+      "census_year": 1950,
+      "source_pk": 204,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 688,
+      "census_year": 1950,
+      "source_pk": 205,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 689,
+      "census_year": 1950,
+      "source_pk": 206,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 690,
+      "census_year": 1950,
+      "source_pk": 207,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 691,
+      "census_year": 1950,
+      "source_pk": 208,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 692,
+      "census_year": 1950,
+      "source_pk": 209,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 693,
+      "census_year": 1950,
+      "source_pk": 210,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 694,
+      "census_year": 1950,
+      "source_pk": 211,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 695,
+      "census_year": 1950,
+      "source_pk": 212,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 696,
+      "census_year": 1950,
+      "source_pk": 213,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 697,
+      "census_year": 1950,
+      "source_pk": 214,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 698,
+      "census_year": 1950,
+      "source_pk": 215,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 699,
+      "census_year": 1950,
+      "source_pk": 216,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 700,
+      "census_year": 1950,
+      "source_pk": 217,
+      "ed": null,
+      "page_number": null
+    }
+  ]
+}

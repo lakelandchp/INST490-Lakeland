@@ -1,0 +1,608 @@
+{
+  "table": "marital_status",
+  "batch_start": 100,
+  "error": "{'code': '23505', 'details': 'Key (marital_id)=(101) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"marital_status_pkey\"'}",
+  "timestamp": "2024-12-06 15:01:24",
+  "data": [
+    {
+      "marital_id": 101,
+      "person_id": "P1900_0001",
+      "record_id": 712,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 102,
+      "person_id": "P1900_000101",
+      "record_id": 713,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 103,
+      "person_id": "P1900_000102",
+      "record_id": 714,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 104,
+      "person_id": "P1900_000103",
+      "record_id": 715,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 105,
+      "person_id": "P1900_000104",
+      "record_id": 716,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 106,
+      "person_id": "P1900_000105",
+      "record_id": 717,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 107,
+      "person_id": "P1900_000106",
+      "record_id": 718,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 108,
+      "person_id": "P1900_000107",
+      "record_id": 719,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 109,
+      "person_id": "P1900_000108",
+      "record_id": 720,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 110,
+      "person_id": "P1900_000109",
+      "record_id": 721,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 111,
+      "person_id": "P1900_00011",
+      "record_id": 722,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 112,
+      "person_id": "P1900_000111",
+      "record_id": 723,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 113,
+      "person_id": "P1900_000112",
+      "record_id": 724,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 114,
+      "person_id": "P1900_000113",
+      "record_id": 725,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 115,
+      "person_id": "P1900_000114",
+      "record_id": 726,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 116,
+      "person_id": "P1900_000115",
+      "record_id": 727,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 117,
+      "person_id": "P1900_000116",
+      "record_id": 728,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 118,
+      "person_id": "P1900_000117",
+      "record_id": 729,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 119,
+      "person_id": "P1900_000118",
+      "record_id": 730,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 120,
+      "person_id": "P1900_000119",
+      "record_id": 731,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 121,
+      "person_id": "P1900_00012",
+      "record_id": 732,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 122,
+      "person_id": "P1900_000121",
+      "record_id": 733,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 123,
+      "person_id": "P1900_000122",
+      "record_id": 734,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 124,
+      "person_id": "P1900_000123",
+      "record_id": 735,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 125,
+      "person_id": "P1900_000124",
+      "record_id": 736,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 126,
+      "person_id": "P1900_000125",
+      "record_id": 737,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 127,
+      "person_id": "P1900_000126",
+      "record_id": 738,
+      "marital_status": "W"
+    },
+    {
+      "marital_id": 128,
+      "person_id": "P1900_000127",
+      "record_id": 739,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 129,
+      "person_id": "P1900_000128",
+      "record_id": 740,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 130,
+      "person_id": "P1900_000129",
+      "record_id": 741,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 131,
+      "person_id": "P1900_00013",
+      "record_id": 742,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 132,
+      "person_id": "P1900_000131",
+      "record_id": 743,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 133,
+      "person_id": "P1900_000132",
+      "record_id": 744,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 134,
+      "person_id": "P1900_000133",
+      "record_id": 745,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 135,
+      "person_id": "P1900_000134",
+      "record_id": 746,
+      "marital_status": "W"
+    },
+    {
+      "marital_id": 136,
+      "person_id": "P1900_000135",
+      "record_id": 747,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 137,
+      "person_id": "P1900_000136",
+      "record_id": 748,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 138,
+      "person_id": "P1900_000137",
+      "record_id": 749,
+      "marital_status": "W"
+    },
+    {
+      "marital_id": 139,
+      "person_id": "P1900_000138",
+      "record_id": 750,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 140,
+      "person_id": "P1900_000139",
+      "record_id": 751,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 141,
+      "person_id": "P1900_00014",
+      "record_id": 752,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 142,
+      "person_id": "P1900_000141",
+      "record_id": 753,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 143,
+      "person_id": "P1900_000142",
+      "record_id": 754,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 144,
+      "person_id": "P1900_000143",
+      "record_id": 755,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 145,
+      "person_id": "P1900_000144",
+      "record_id": 756,
+      "marital_status": "W"
+    },
+    {
+      "marital_id": 146,
+      "person_id": "P1900_000145",
+      "record_id": 757,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 147,
+      "person_id": "P1900_000146",
+      "record_id": 758,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 148,
+      "person_id": "P1900_000147",
+      "record_id": 759,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 149,
+      "person_id": "P1900_000148",
+      "record_id": 760,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 150,
+      "person_id": "P1900_000149",
+      "record_id": 761,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 151,
+      "person_id": "P1900_00015",
+      "record_id": 762,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 152,
+      "person_id": "P1900_000151",
+      "record_id": 763,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 153,
+      "person_id": "P1900_000152",
+      "record_id": 764,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 154,
+      "person_id": "P1900_000153",
+      "record_id": 765,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 155,
+      "person_id": "P1900_000154",
+      "record_id": 766,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 156,
+      "person_id": "P1900_000155",
+      "record_id": 767,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 157,
+      "person_id": "P1900_000156",
+      "record_id": 768,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 158,
+      "person_id": "P1900_000157",
+      "record_id": 769,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 159,
+      "person_id": "P1900_000158",
+      "record_id": 770,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 160,
+      "person_id": "P1900_000159",
+      "record_id": 771,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 161,
+      "person_id": "P1900_00016",
+      "record_id": 772,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 162,
+      "person_id": "P1900_000161",
+      "record_id": 773,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 163,
+      "person_id": "P1900_000162",
+      "record_id": 774,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 164,
+      "person_id": "P1900_000163",
+      "record_id": 775,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 165,
+      "person_id": "P1900_000164",
+      "record_id": 776,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 166,
+      "person_id": "P1900_000165",
+      "record_id": 777,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 167,
+      "person_id": "P1900_000166",
+      "record_id": 778,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 168,
+      "person_id": "P1900_000167",
+      "record_id": 779,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 169,
+      "person_id": "P1900_000168",
+      "record_id": 780,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 170,
+      "person_id": "P1900_000169",
+      "record_id": 781,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 171,
+      "person_id": "P1900_00017",
+      "record_id": 782,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 172,
+      "person_id": "P1900_000171",
+      "record_id": 783,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 173,
+      "person_id": "P1900_000172",
+      "record_id": 784,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 174,
+      "person_id": "P1900_000173",
+      "record_id": 785,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 175,
+      "person_id": "P1900_000174",
+      "record_id": 786,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 176,
+      "person_id": "P1900_000175",
+      "record_id": 787,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 177,
+      "person_id": "P1900_000176",
+      "record_id": 788,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 178,
+      "person_id": "P1900_000177",
+      "record_id": 789,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 179,
+      "person_id": "P1900_000178",
+      "record_id": 790,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 180,
+      "person_id": "P1900_000179",
+      "record_id": 791,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 181,
+      "person_id": "P1900_00018",
+      "record_id": 792,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 182,
+      "person_id": "P1900_000181",
+      "record_id": 793,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 183,
+      "person_id": "P1900_000182",
+      "record_id": 794,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 184,
+      "person_id": "P1900_000183",
+      "record_id": 795,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 185,
+      "person_id": "P1900_000184",
+      "record_id": 796,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 186,
+      "person_id": "P1900_000185",
+      "record_id": 797,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 187,
+      "person_id": "P1920_",
+      "record_id": 612,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 188,
+      "person_id": "P1920_000001",
+      "record_id": 613,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 189,
+      "person_id": "P1920_000002",
+      "record_id": 614,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 190,
+      "person_id": "P1920_000003",
+      "record_id": 615,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 191,
+      "person_id": "P1920_000004",
+      "record_id": 616,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 192,
+      "person_id": "P1920_000005",
+      "record_id": 617,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 193,
+      "person_id": "P1920_000006",
+      "record_id": 618,
+      "marital_status": "M"
+    },
+    {
+      "marital_id": 194,
+      "person_id": "P1920_000007",
+      "record_id": 619,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 195,
+      "person_id": "P1920_000008",
+      "record_id": 620,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 196,
+      "person_id": "P1920_000009",
+      "record_id": 621,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 197,
+      "person_id": "P1920_00001",
+      "record_id": 622,
+      "marital_status": "Wed"
+    },
+    {
+      "marital_id": 198,
+      "person_id": "P1920_000011",
+      "record_id": 623,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 199,
+      "person_id": "P1920_000012",
+      "record_id": 624,
+      "marital_status": "S"
+    },
+    {
+      "marital_id": 200,
+      "person_id": "P1920_000013",
+      "record_id": 625,
+      "marital_status": "M"
+    }
+  ]
+}

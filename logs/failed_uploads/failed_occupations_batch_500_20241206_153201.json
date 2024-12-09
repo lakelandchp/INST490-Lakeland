@@ -1,0 +1,708 @@
+{
+  "table": "occupations",
+  "batch_start": 500,
+  "error": "{'code': '23505', 'details': 'Key (occupation_id)=(501) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"occupations_pkey\"'}",
+  "timestamp": "2024-12-06 15:32:01",
+  "data": [
+    {
+      "occupation_id": 501,
+      "person_id": "P1950_000017",
+      "record_id": 501,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 502,
+      "person_id": "P1950_000018",
+      "record_id": 502,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 503,
+      "person_id": "P1950_000019",
+      "record_id": 503,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 504,
+      "person_id": "P1950_00002",
+      "record_id": 504,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 505,
+      "person_id": "P1950_000021",
+      "record_id": 505,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 506,
+      "person_id": "P1950_000022",
+      "record_id": 506,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 507,
+      "person_id": "P1950_000023",
+      "record_id": 507,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 508,
+      "person_id": "P1950_000024",
+      "record_id": 508,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 509,
+      "person_id": "P1950_000025",
+      "record_id": 509,
+      "work": "Cement Finisher",
+      "business": "Construction Co"
+    },
+    {
+      "occupation_id": 510,
+      "person_id": "P1950_000026",
+      "record_id": 510,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 511,
+      "person_id": "P1950_000027",
+      "record_id": 511,
+      "work": "Store Keeper",
+      "business": "Air Base (Gov)"
+    },
+    {
+      "occupation_id": 512,
+      "person_id": "P1950_000028",
+      "record_id": 512,
+      "work": "Cook",
+      "business": "Dinner"
+    },
+    {
+      "occupation_id": 513,
+      "person_id": "P1950_000029",
+      "record_id": 513,
+      "work": "Cement Finisher",
+      "business": "Construction Co"
+    },
+    {
+      "occupation_id": 514,
+      "person_id": "P1950_00003",
+      "record_id": 514,
+      "work": "General Housework",
+      "business": "Private Homes"
+    },
+    {
+      "occupation_id": 515,
+      "person_id": "P1950_000031",
+      "record_id": 515,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 516,
+      "person_id": "P1950_000032",
+      "record_id": 516,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 517,
+      "person_id": "P1950_000033",
+      "record_id": 517,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 518,
+      "person_id": "P1950_000034",
+      "record_id": 518,
+      "work": "Domestic Help",
+      "business": "Private Homes"
+    },
+    {
+      "occupation_id": 519,
+      "person_id": "P1950_000035",
+      "record_id": 519,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 520,
+      "person_id": "P1950_000036",
+      "record_id": 520,
+      "work": "Retail Butcher",
+      "business": "Retail Meat Market"
+    },
+    {
+      "occupation_id": 521,
+      "person_id": "P1950_000037",
+      "record_id": 521,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 522,
+      "person_id": "P1950_000038",
+      "record_id": 522,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 523,
+      "person_id": "P1950_000039",
+      "record_id": 523,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 524,
+      "person_id": "P1950_00004",
+      "record_id": 524,
+      "work": "Housework",
+      "business": "Private Homes"
+    },
+    {
+      "occupation_id": 525,
+      "person_id": "P1950_000041",
+      "record_id": 525,
+      "work": "Train Cars Cleaner, Pullman",
+      "business": "Fright Yard"
+    },
+    {
+      "occupation_id": 526,
+      "person_id": "P1950_000042",
+      "record_id": 526,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 527,
+      "person_id": "P1950_000043",
+      "record_id": 527,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 528,
+      "person_id": "P1950_000044",
+      "record_id": 528,
+      "work": "Domestic Work",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 529,
+      "person_id": "P1950_000045",
+      "record_id": 529,
+      "work": "File Clerk",
+      "business": "Genera; Service Dept"
+    },
+    {
+      "occupation_id": 530,
+      "person_id": "P1950_000046",
+      "record_id": 530,
+      "work": "Kitchen Helper",
+      "business": "State University"
+    },
+    {
+      "occupation_id": 531,
+      "person_id": "P1950_000047",
+      "record_id": 531,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 532,
+      "person_id": "P1950_000048",
+      "record_id": 532,
+      "work": "Carpenter Worker",
+      "business": "Private Construction Company"
+    },
+    {
+      "occupation_id": 533,
+      "person_id": "P1950_000049",
+      "record_id": 533,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 534,
+      "person_id": "P1950_00005",
+      "record_id": 534,
+      "work": "Cement Layer",
+      "business": "Construction Company"
+    },
+    {
+      "occupation_id": 535,
+      "person_id": "P1950_000051",
+      "record_id": 535,
+      "work": "Housekeeper",
+      "business": "Private Homes"
+    },
+    {
+      "occupation_id": 536,
+      "person_id": "P1950_000052",
+      "record_id": 536,
+      "work": "Housekeeper",
+      "business": "Private Homes"
+    },
+    {
+      "occupation_id": 537,
+      "person_id": "P1950_000053",
+      "record_id": 537,
+      "work": "Weiter And Cleaning",
+      "business": "State University"
+    },
+    {
+      "occupation_id": 538,
+      "person_id": "P1950_000054",
+      "record_id": 538,
+      "work": "Manager Of Cafeteria",
+      "business": "Elementary School"
+    },
+    {
+      "occupation_id": 539,
+      "person_id": "P1950_000055",
+      "record_id": 539,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 540,
+      "person_id": "P1950_000056",
+      "record_id": 540,
+      "work": "Janitor",
+      "business": "Bearue Of Mines"
+    },
+    {
+      "occupation_id": 541,
+      "person_id": "P1950_000057",
+      "record_id": 541,
+      "work": "Dormitory Maid",
+      "business": "State University"
+    },
+    {
+      "occupation_id": 542,
+      "person_id": "P1950_000058",
+      "record_id": 542,
+      "work": "Cook",
+      "business": "State University"
+    },
+    {
+      "occupation_id": 543,
+      "person_id": "P1950_000059",
+      "record_id": 543,
+      "work": "Maid",
+      "business": "State University"
+    },
+    {
+      "occupation_id": 544,
+      "person_id": "P1950_00006",
+      "record_id": 544,
+      "work": "Maid",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 545,
+      "person_id": "P1950_000061",
+      "record_id": 545,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 546,
+      "person_id": "P1950_000062",
+      "record_id": 546,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 547,
+      "person_id": "P1950_000063",
+      "record_id": 547,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 548,
+      "person_id": "P1950_000064",
+      "record_id": 548,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 549,
+      "person_id": "P1950_000065",
+      "record_id": 549,
+      "work": "Laborer",
+      "business": "Coal Business"
+    },
+    {
+      "occupation_id": 550,
+      "person_id": "P1950_000066",
+      "record_id": 550,
+      "work": "General Housework",
+      "business": "Private Families"
+    },
+    {
+      "occupation_id": 551,
+      "person_id": "P1950_000067",
+      "record_id": 551,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 552,
+      "person_id": "P1950_000068",
+      "record_id": 552,
+      "work": "Laborer",
+      "business": "Water Company"
+    },
+    {
+      "occupation_id": 553,
+      "person_id": "P1950_000069",
+      "record_id": 553,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 554,
+      "person_id": "P1950_00007",
+      "record_id": 554,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 555,
+      "person_id": "P1950_000071",
+      "record_id": 555,
+      "work": "Mail Clerk",
+      "business": "Us Post Office Dept"
+    },
+    {
+      "occupation_id": 556,
+      "person_id": "P1950_000072",
+      "record_id": 556,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 557,
+      "person_id": "P1950_000073",
+      "record_id": 557,
+      "work": "Porter",
+      "business": null
+    },
+    {
+      "occupation_id": 558,
+      "person_id": "P1950_000074",
+      "record_id": 558,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 559,
+      "person_id": "P1950_000075",
+      "record_id": 559,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 560,
+      "person_id": "P1950_000076",
+      "record_id": 560,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 561,
+      "person_id": "P1950_000077",
+      "record_id": 561,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 562,
+      "person_id": "P1950_000078",
+      "record_id": 562,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 563,
+      "person_id": "P1950_000079",
+      "record_id": 563,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 564,
+      "person_id": "P1950_00008",
+      "record_id": 564,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 565,
+      "person_id": "P1950_000081",
+      "record_id": 565,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 566,
+      "person_id": "P1950_000082",
+      "record_id": 566,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 567,
+      "person_id": "P1950_000083",
+      "record_id": 567,
+      "work": "Domestic Helper",
+      "business": "Private Houses"
+    },
+    {
+      "occupation_id": 568,
+      "person_id": "P1950_000084",
+      "record_id": 568,
+      "work": "Painting",
+      "business": "Private Houses"
+    },
+    {
+      "occupation_id": 569,
+      "person_id": "P1950_000085",
+      "record_id": 569,
+      "work": "Domestic Helper",
+      "business": "Private Houses"
+    },
+    {
+      "occupation_id": 570,
+      "person_id": "P1950_000086",
+      "record_id": 570,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 571,
+      "person_id": "P1950_000087",
+      "record_id": 571,
+      "work": "Clerk",
+      "business": "Beer Garden"
+    },
+    {
+      "occupation_id": 572,
+      "person_id": "P1950_000088",
+      "record_id": 572,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 573,
+      "person_id": "P1950_000089",
+      "record_id": 573,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 574,
+      "person_id": "P1950_00009",
+      "record_id": 574,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 575,
+      "person_id": "P1950_000091",
+      "record_id": 575,
+      "work": "Domestic Helper",
+      "business": "Private Houses"
+    },
+    {
+      "occupation_id": 576,
+      "person_id": "P1950_000092",
+      "record_id": 576,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 577,
+      "person_id": "P1950_000093",
+      "record_id": 577,
+      "work": "Engineer And Draftsman",
+      "business": "Navy Department"
+    },
+    {
+      "occupation_id": 578,
+      "person_id": "P1950_000094",
+      "record_id": 578,
+      "work": "Proprietor",
+      "business": "Retail Grocery Store"
+    },
+    {
+      "occupation_id": 579,
+      "person_id": "P1950_000095",
+      "record_id": 579,
+      "work": "Proprietor",
+      "business": "Retail Grocery Store"
+    },
+    {
+      "occupation_id": 580,
+      "person_id": "P1950_000096",
+      "record_id": 580,
+      "work": "Elementary School Teacher",
+      "business": "Elementary School"
+    },
+    {
+      "occupation_id": 581,
+      "person_id": "P1950_000097",
+      "record_id": 581,
+      "work": "Mathematics Teacher",
+      "business": "High School"
+    },
+    {
+      "occupation_id": 582,
+      "person_id": "P1950_000098",
+      "record_id": 582,
+      "work": "Clerk",
+      "business": "Navy Department"
+    },
+    {
+      "occupation_id": 583,
+      "person_id": "P1950_000099",
+      "record_id": 583,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 584,
+      "person_id": "P1950_0001",
+      "record_id": 584,
+      "work": "Unknown",
+      "business": null
+    },
+    {
+      "occupation_id": 585,
+      "person_id": "P1950_000101",
+      "record_id": 585,
+      "work": "Dish Washer",
+      "business": "Restaurant"
+    },
+    {
+      "occupation_id": 586,
+      "person_id": "P1950_000102",
+      "record_id": 586,
+      "work": "Domestic Helper",
+      "business": "Private House"
+    },
+    {
+      "occupation_id": 587,
+      "person_id": "P1950_000103",
+      "record_id": 587,
+      "work": "Chauffeur",
+      "business": "University Of Maryland"
+    },
+    {
+      "occupation_id": 588,
+      "person_id": "P1950_000104",
+      "record_id": 588,
+      "work": "Waitress",
+      "business": "Drug Store"
+    },
+    {
+      "occupation_id": 589,
+      "person_id": "P1950_000105",
+      "record_id": 589,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 590,
+      "person_id": "P1950_000106",
+      "record_id": 590,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 591,
+      "person_id": "P1950_000107",
+      "record_id": 591,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 592,
+      "person_id": "P1950_000108",
+      "record_id": 592,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 593,
+      "person_id": "P1950_000109",
+      "record_id": 593,
+      "work": "Labor",
+      "business": null
+    },
+    {
+      "occupation_id": 594,
+      "person_id": "P1950_00011",
+      "record_id": 594,
+      "work": "Cabin Helper",
+      "business": "Tourist Court"
+    },
+    {
+      "occupation_id": 595,
+      "person_id": "P1950_000111",
+      "record_id": 595,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 596,
+      "person_id": "P1950_000112",
+      "record_id": 596,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 597,
+      "person_id": "P1950_000113",
+      "record_id": 597,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 598,
+      "person_id": "P1950_000114",
+      "record_id": 598,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 599,
+      "person_id": "P1950_000115",
+      "record_id": 599,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 600,
+      "person_id": "P1950_000116",
+      "record_id": 600,
+      "work": "Domestic Helper",
+      "business": "Private Houses"
+    }
+  ]
+}

@@ -1,0 +1,590 @@
+{
+  "table": "marital_status",
+  "batch_start": 700,
+  "error": "{'code': '23505', 'details': 'Key (marital_id)=(701) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"marital_status_pkey\"'}",
+  "timestamp": "2024-12-06 15:01:25",
+  "data": [
+    {
+      "marital_id": 701,
+      "person_id": "P1950_000217",
+      "record_id": 701,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 702,
+      "person_id": "P1950_000218",
+      "record_id": 702,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 703,
+      "person_id": "P1950_000219",
+      "record_id": 703,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 704,
+      "person_id": "P1950_00022",
+      "record_id": 704,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 705,
+      "person_id": "P1950_000221",
+      "record_id": 705,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 706,
+      "person_id": "P1950_000222",
+      "record_id": 706,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 707,
+      "person_id": "P1950_000223",
+      "record_id": 707,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 708,
+      "person_id": "P1950_000224",
+      "record_id": 708,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 709,
+      "person_id": "P1950_000225",
+      "record_id": 709,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 710,
+      "person_id": "P1950_000226",
+      "record_id": 710,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 711,
+      "person_id": "P1950_000227",
+      "record_id": 711,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 712,
+      "person_id": "P1950_000228",
+      "record_id": 712,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 713,
+      "person_id": "P1950_000229",
+      "record_id": 713,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 714,
+      "person_id": "P1950_00023",
+      "record_id": 714,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 715,
+      "person_id": "P1950_000231",
+      "record_id": 715,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 716,
+      "person_id": "P1950_000232",
+      "record_id": 716,
+      "marital_status": "Mer"
+    },
+    {
+      "marital_id": 717,
+      "person_id": "P1950_000233",
+      "record_id": 717,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 718,
+      "person_id": "P1950_000234",
+      "record_id": 718,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 719,
+      "person_id": "P1950_000235",
+      "record_id": 719,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 720,
+      "person_id": "P1950_000236",
+      "record_id": 720,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 721,
+      "person_id": "P1950_000237",
+      "record_id": 721,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 722,
+      "person_id": "P1950_000238",
+      "record_id": 722,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 723,
+      "person_id": "P1950_000239",
+      "record_id": 723,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 724,
+      "person_id": "P1950_00024",
+      "record_id": 724,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 725,
+      "person_id": "P1950_000241",
+      "record_id": 725,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 726,
+      "person_id": "P1950_000242",
+      "record_id": 726,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 727,
+      "person_id": "P1950_000243",
+      "record_id": 727,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 728,
+      "person_id": "P1950_000244",
+      "record_id": 728,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 729,
+      "person_id": "P1950_000245",
+      "record_id": 729,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 730,
+      "person_id": "P1950_000246",
+      "record_id": 730,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 731,
+      "person_id": "P1950_000247",
+      "record_id": 731,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 732,
+      "person_id": "P1950_000248",
+      "record_id": 732,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 733,
+      "person_id": "P1950_000249",
+      "record_id": 733,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 734,
+      "person_id": "P1950_00025",
+      "record_id": 734,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 735,
+      "person_id": "P1950_000251",
+      "record_id": 735,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 736,
+      "person_id": "P1950_000252",
+      "record_id": 736,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 737,
+      "person_id": "P1950_000253",
+      "record_id": 737,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 738,
+      "person_id": "P1950_000254",
+      "record_id": 738,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 739,
+      "person_id": "P1950_000255",
+      "record_id": 739,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 740,
+      "person_id": "P1950_000256",
+      "record_id": 740,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 741,
+      "person_id": "P1950_000257",
+      "record_id": 741,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 742,
+      "person_id": "P1950_000258",
+      "record_id": 742,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 743,
+      "person_id": "P1950_000259",
+      "record_id": 743,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 744,
+      "person_id": "P1950_00026",
+      "record_id": 744,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 745,
+      "person_id": "P1950_000261",
+      "record_id": 745,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 746,
+      "person_id": "P1950_000262",
+      "record_id": 746,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 747,
+      "person_id": "P1950_000263",
+      "record_id": 747,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 748,
+      "person_id": "P1950_000264",
+      "record_id": 748,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 749,
+      "person_id": "P1950_000265",
+      "record_id": 749,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 750,
+      "person_id": "P1950_000266",
+      "record_id": 750,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 751,
+      "person_id": "P1950_000267",
+      "record_id": 751,
+      "marital_status": "Wd"
+    },
+    {
+      "marital_id": 752,
+      "person_id": "P1950_000268",
+      "record_id": 752,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 753,
+      "person_id": "P1950_000269",
+      "record_id": 753,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 754,
+      "person_id": "P1950_00027",
+      "record_id": 754,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 755,
+      "person_id": "P1950_000271",
+      "record_id": 755,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 756,
+      "person_id": "P1950_000272",
+      "record_id": 756,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 757,
+      "person_id": "P1950_000273",
+      "record_id": 757,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 758,
+      "person_id": "P1950_000274",
+      "record_id": 758,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 759,
+      "person_id": "P1950_000275",
+      "record_id": 759,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 760,
+      "person_id": "P1950_000276",
+      "record_id": 760,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 761,
+      "person_id": "P1950_000277",
+      "record_id": 761,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 762,
+      "person_id": "P1950_000278",
+      "record_id": 762,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 763,
+      "person_id": "P1950_000279",
+      "record_id": 763,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 764,
+      "person_id": "P1950_00028",
+      "record_id": 764,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 765,
+      "person_id": "P1950_000281",
+      "record_id": 765,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 766,
+      "person_id": "P1950_000282",
+      "record_id": 766,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 767,
+      "person_id": "P1950_000283",
+      "record_id": 767,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 768,
+      "person_id": "P1950_000284",
+      "record_id": 768,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 769,
+      "person_id": "P1950_000285",
+      "record_id": 769,
+      "marital_status": "Wd"
+    },
+    {
+      "marital_id": 770,
+      "person_id": "P1950_000286",
+      "record_id": 770,
+      "marital_status": "Sep"
+    },
+    {
+      "marital_id": 771,
+      "person_id": "P1950_000287",
+      "record_id": 771,
+      "marital_status": "Wd"
+    },
+    {
+      "marital_id": 772,
+      "person_id": "P1950_000288",
+      "record_id": 772,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 773,
+      "person_id": "P1950_000289",
+      "record_id": 773,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 774,
+      "person_id": "P1950_00029",
+      "record_id": 774,
+      "marital_status": "Nen"
+    },
+    {
+      "marital_id": 775,
+      "person_id": "P1950_000291",
+      "record_id": 775,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 776,
+      "person_id": "P1950_000292",
+      "record_id": 776,
+      "marital_status": "Wd"
+    },
+    {
+      "marital_id": 777,
+      "person_id": "P1950_000293",
+      "record_id": 777,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 778,
+      "person_id": "P1950_000294",
+      "record_id": 778,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 779,
+      "person_id": "P1950_000295",
+      "record_id": 779,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 780,
+      "person_id": "P1950_000296",
+      "record_id": 780,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 781,
+      "person_id": "P1950_000297",
+      "record_id": 781,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 782,
+      "person_id": "P1950_000298",
+      "record_id": 782,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 783,
+      "person_id": "P1950_000299",
+      "record_id": 783,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 784,
+      "person_id": "P1950_0003",
+      "record_id": 784,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 785,
+      "person_id": "P1950_000301",
+      "record_id": 785,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 786,
+      "person_id": "P1950_000302",
+      "record_id": 786,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 787,
+      "person_id": "P1950_000303",
+      "record_id": 787,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 788,
+      "person_id": "P1950_000304",
+      "record_id": 788,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 789,
+      "person_id": "P1950_000305",
+      "record_id": 789,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 790,
+      "person_id": "P1950_000306",
+      "record_id": 790,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 791,
+      "person_id": "P1950_000307",
+      "record_id": 791,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 792,
+      "person_id": "P1950_000308",
+      "record_id": 792,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 793,
+      "person_id": "P1950_000309",
+      "record_id": 793,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 794,
+      "person_id": "P1950_00031",
+      "record_id": 794,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 795,
+      "person_id": "P1950_000311",
+      "record_id": 795,
+      "marital_status": "Mar"
+    },
+    {
+      "marital_id": 796,
+      "person_id": "P1950_000312",
+      "record_id": 796,
+      "marital_status": "Nev"
+    },
+    {
+      "marital_id": 797,
+      "person_id": "P1950_000313",
+      "record_id": 797,
+      "marital_status": "Wd"
+    }
+  ]
+}

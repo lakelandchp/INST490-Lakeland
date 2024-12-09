@@ -1,0 +1,708 @@
+{
+  "table": "relationships",
+  "batch_start": 400,
+  "error": "{'code': '23505', 'details': 'Key (relationship_id)=(401) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"relationships_pkey\"'}",
+  "timestamp": "2024-12-06 15:32:03",
+  "data": [
+    {
+      "relationship_id": 401,
+      "person_id": "P1930_000028",
+      "family_id": "F1950_000292",
+      "record_id": 776,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 402,
+      "person_id": "P1930_000029",
+      "family_id": "F1950_000293",
+      "record_id": 777,
+      "relation_to_head": "Grand Daughter"
+    },
+    {
+      "relationship_id": 403,
+      "person_id": "P1930_00003",
+      "family_id": "F1950_000294",
+      "record_id": 778,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 404,
+      "person_id": "P1930_000031",
+      "family_id": "F1950_000295",
+      "record_id": 779,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 405,
+      "person_id": "P1930_000032",
+      "family_id": "F1950_000296",
+      "record_id": 780,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 406,
+      "person_id": "P1930_000033",
+      "family_id": "F1950_000297",
+      "record_id": 781,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 407,
+      "person_id": "P1930_000034",
+      "family_id": "F1950_000298",
+      "record_id": 782,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 408,
+      "person_id": "P1930_000035",
+      "family_id": "F1950_000299",
+      "record_id": 783,
+      "relation_to_head": "Mother In Law"
+    },
+    {
+      "relationship_id": 409,
+      "person_id": "P1930_000036",
+      "family_id": "F1950_0003",
+      "record_id": 784,
+      "relation_to_head": "Sister In Law"
+    },
+    {
+      "relationship_id": 410,
+      "person_id": "P1930_000037",
+      "family_id": "F1950_000301",
+      "record_id": 785,
+      "relation_to_head": "Nephew"
+    },
+    {
+      "relationship_id": 411,
+      "person_id": "P1930_000038",
+      "family_id": "F1950_000302",
+      "record_id": 786,
+      "relation_to_head": "Nephew"
+    },
+    {
+      "relationship_id": 412,
+      "person_id": "P1930_000039",
+      "family_id": "F1950_000303",
+      "record_id": 787,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 413,
+      "person_id": "P1930_00004",
+      "family_id": "F1950_000304",
+      "record_id": 788,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 414,
+      "person_id": "P1930_000041",
+      "family_id": "F1950_000305",
+      "record_id": 789,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 415,
+      "person_id": "P1930_000042",
+      "family_id": "F1950_000306",
+      "record_id": 790,
+      "relation_to_head": "Grand Daughter"
+    },
+    {
+      "relationship_id": 416,
+      "person_id": "P1930_000043",
+      "family_id": "F1950_000307",
+      "record_id": 791,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 417,
+      "person_id": "P1930_000044",
+      "family_id": "F1950_000308",
+      "record_id": 792,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 418,
+      "person_id": "P1930_000045",
+      "family_id": "F1950_000309",
+      "record_id": 793,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 419,
+      "person_id": "P1930_000046",
+      "family_id": "F1950_00031",
+      "record_id": 794,
+      "relation_to_head": "Nephew In Law"
+    },
+    {
+      "relationship_id": 420,
+      "person_id": "P1930_000047",
+      "family_id": "F1950_000311",
+      "record_id": 795,
+      "relation_to_head": "Niece"
+    },
+    {
+      "relationship_id": 421,
+      "person_id": "P1930_000048",
+      "family_id": "F1950_000312",
+      "record_id": 796,
+      "relation_to_head": "Grand Nephew"
+    },
+    {
+      "relationship_id": 422,
+      "person_id": "P1930_000049",
+      "family_id": "F1950_000313",
+      "record_id": 797,
+      "relation_to_head": "Grand Niece"
+    },
+    {
+      "relationship_id": 423,
+      "person_id": "P1940_",
+      "family_id": "F1950_000253",
+      "record_id": 737,
+      "relation_to_head": "Servent"
+    },
+    {
+      "relationship_id": 424,
+      "person_id": "P1940_000001",
+      "family_id": "F1950_000254",
+      "record_id": 738,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 425,
+      "person_id": "P1940_000002",
+      "family_id": "F1950_000255",
+      "record_id": 739,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 426,
+      "person_id": "P1940_000003",
+      "family_id": "F1950_000256",
+      "record_id": 740,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 427,
+      "person_id": "P1940_000004",
+      "family_id": "F1950_000257",
+      "record_id": 741,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 428,
+      "person_id": "P1940_000005",
+      "family_id": "F1950_000258",
+      "record_id": 742,
+      "relation_to_head": "Cook"
+    },
+    {
+      "relationship_id": 429,
+      "person_id": "P1940_000006",
+      "family_id": "F1950_000259",
+      "record_id": 743,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 430,
+      "person_id": "P1940_000007",
+      "family_id": "F1950_00026",
+      "record_id": 744,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 431,
+      "person_id": "P1940_000008",
+      "family_id": "F1950_000261",
+      "record_id": 745,
+      "relation_to_head": "Maid"
+    },
+    {
+      "relationship_id": 432,
+      "person_id": "P1940_000009",
+      "family_id": "F1950_000262",
+      "record_id": 746,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 433,
+      "person_id": "P1940_00001",
+      "family_id": "F1950_000263",
+      "record_id": 747,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 434,
+      "person_id": "P1940_000011",
+      "family_id": "F1950_000264",
+      "record_id": 748,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 435,
+      "person_id": "P1940_000012",
+      "family_id": "F1950_000265",
+      "record_id": 749,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 436,
+      "person_id": "P1940_000013",
+      "family_id": "F1950_000266",
+      "record_id": 750,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 437,
+      "person_id": "P1940_000014",
+      "family_id": "F1950_000267",
+      "record_id": 751,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 438,
+      "person_id": "P1940_000015",
+      "family_id": "F1950_000268",
+      "record_id": 752,
+      "relation_to_head": "Son In Law"
+    },
+    {
+      "relationship_id": 439,
+      "person_id": "P1940_000016",
+      "family_id": "F1950_000269",
+      "record_id": 753,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 440,
+      "person_id": "P1940_000017",
+      "family_id": "F1950_00027",
+      "record_id": 754,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 441,
+      "person_id": "P1940_000018",
+      "family_id": "F1950_000271",
+      "record_id": 755,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 442,
+      "person_id": "P1940_000019",
+      "family_id": "F1950_000272",
+      "record_id": 756,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 443,
+      "person_id": "P1940_00002",
+      "family_id": "F1950_000273",
+      "record_id": 757,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 444,
+      "person_id": "P1940_000021",
+      "family_id": "F1950_000274",
+      "record_id": 758,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 445,
+      "person_id": "P1940_000022",
+      "family_id": "F1950_000275",
+      "record_id": 759,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 446,
+      "person_id": "P1940_000023",
+      "family_id": "F1950_000276",
+      "record_id": 760,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 447,
+      "person_id": "P1940_000024",
+      "family_id": "F1950_000277",
+      "record_id": 761,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 448,
+      "person_id": "P1940_000025",
+      "family_id": "F1950_000278",
+      "record_id": 762,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 449,
+      "person_id": "P1940_000026",
+      "family_id": "F1950_000279",
+      "record_id": 763,
+      "relation_to_head": "Grandson"
+    },
+    {
+      "relationship_id": 450,
+      "person_id": "P1940_000027",
+      "family_id": "F1950_00028",
+      "record_id": 764,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 451,
+      "person_id": "P1940_000028",
+      "family_id": "F1950_000281",
+      "record_id": 765,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 452,
+      "person_id": "P1940_000029",
+      "family_id": "F1950_000282",
+      "record_id": 766,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 453,
+      "person_id": "P1940_00003",
+      "family_id": "F1950_000283",
+      "record_id": 767,
+      "relation_to_head": "Nephew"
+    },
+    {
+      "relationship_id": 454,
+      "person_id": "P1940_000031",
+      "family_id": "F1950_000284",
+      "record_id": 768,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 455,
+      "person_id": "P1940_000032",
+      "family_id": "F1950_000285",
+      "record_id": 769,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 456,
+      "person_id": "P1940_000033",
+      "family_id": "F1950_000286",
+      "record_id": 770,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 457,
+      "person_id": "P1940_000034",
+      "family_id": "F1950_000287",
+      "record_id": 771,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 458,
+      "person_id": "P1940_000035",
+      "family_id": "F1950_000288",
+      "record_id": 772,
+      "relation_to_head": "Son In Law"
+    },
+    {
+      "relationship_id": 459,
+      "person_id": "P1940_000036",
+      "family_id": "F1950_000289",
+      "record_id": 773,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 460,
+      "person_id": "P1940_000037",
+      "family_id": "F1950_00029",
+      "record_id": 774,
+      "relation_to_head": "Son In Law"
+    },
+    {
+      "relationship_id": 461,
+      "person_id": "P1940_000038",
+      "family_id": "F1950_000291",
+      "record_id": 775,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 462,
+      "person_id": "P1940_000039",
+      "family_id": "F1950_000292",
+      "record_id": 776,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 463,
+      "person_id": "P1940_00004",
+      "family_id": "F1950_000293",
+      "record_id": 777,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 464,
+      "person_id": "P1940_000041",
+      "family_id": "F1950_000294",
+      "record_id": 778,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 465,
+      "person_id": "P1940_000042",
+      "family_id": "F1950_000295",
+      "record_id": 779,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 466,
+      "person_id": "P1940_000043",
+      "family_id": "F1950_000296",
+      "record_id": 780,
+      "relation_to_head": "Great Granddaughter"
+    },
+    {
+      "relationship_id": 467,
+      "person_id": "P1940_000044",
+      "family_id": "F1950_000297",
+      "record_id": 781,
+      "relation_to_head": "Great Grandson"
+    },
+    {
+      "relationship_id": 468,
+      "person_id": "P1940_000045",
+      "family_id": "F1950_000298",
+      "record_id": 782,
+      "relation_to_head": "Great Granddaughter"
+    },
+    {
+      "relationship_id": 469,
+      "person_id": "P1940_000046",
+      "family_id": "F1950_000299",
+      "record_id": 783,
+      "relation_to_head": "Nephew"
+    },
+    {
+      "relationship_id": 470,
+      "person_id": "P1940_000047",
+      "family_id": "F1950_0003",
+      "record_id": 784,
+      "relation_to_head": "Lodger"
+    },
+    {
+      "relationship_id": 471,
+      "person_id": "P1940_000048",
+      "family_id": "F1950_000301",
+      "record_id": 785,
+      "relation_to_head": "Lodger Wife"
+    },
+    {
+      "relationship_id": 472,
+      "person_id": "P1940_000049",
+      "family_id": "F1950_000302",
+      "record_id": 786,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 473,
+      "person_id": "P1940_00005",
+      "family_id": "F1950_000303",
+      "record_id": 787,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 474,
+      "person_id": "P1940_000051",
+      "family_id": "F1950_000304",
+      "record_id": 788,
+      "relation_to_head": "Lodger"
+    },
+    {
+      "relationship_id": 475,
+      "person_id": "P1940_000052",
+      "family_id": "F1950_000305",
+      "record_id": 789,
+      "relation_to_head": "Lodger"
+    },
+    {
+      "relationship_id": 476,
+      "person_id": "P1940_000053",
+      "family_id": "F1950_000306",
+      "record_id": 790,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 477,
+      "person_id": "P1940_000054",
+      "family_id": "F1950_000307",
+      "record_id": 791,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 478,
+      "person_id": "P1940_000055",
+      "family_id": "F1950_000308",
+      "record_id": 792,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 479,
+      "person_id": "P1940_000056",
+      "family_id": "F1950_000309",
+      "record_id": 793,
+      "relation_to_head": "Niece"
+    },
+    {
+      "relationship_id": 480,
+      "person_id": "P1940_000057",
+      "family_id": "F1950_00031",
+      "record_id": 794,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 481,
+      "person_id": "P1940_000058",
+      "family_id": "F1950_000311",
+      "record_id": 795,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 482,
+      "person_id": "P1940_000059",
+      "family_id": "F1950_000312",
+      "record_id": 796,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 483,
+      "person_id": "P1940_00006",
+      "family_id": "F1950_000313",
+      "record_id": 797,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 484,
+      "person_id": "P1950_",
+      "family_id": "F1950_",
+      "record_id": 484,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 485,
+      "person_id": "P1950_000001",
+      "family_id": "F1950_000001",
+      "record_id": 485,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 486,
+      "person_id": "P1950_000002",
+      "family_id": "F1950_000002",
+      "record_id": 486,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 487,
+      "person_id": "P1950_000003",
+      "family_id": "F1950_000003",
+      "record_id": 487,
+      "relation_to_head": "Grandson"
+    },
+    {
+      "relationship_id": 488,
+      "person_id": "P1950_000004",
+      "family_id": "F1950_000004",
+      "record_id": 488,
+      "relation_to_head": "Granddaughter"
+    },
+    {
+      "relationship_id": 489,
+      "person_id": "P1950_000005",
+      "family_id": "F1950_000005",
+      "record_id": 489,
+      "relation_to_head": "Grandson"
+    },
+    {
+      "relationship_id": 490,
+      "person_id": "P1950_000006",
+      "family_id": "F1950_000006",
+      "record_id": 490,
+      "relation_to_head": "Grandson"
+    },
+    {
+      "relationship_id": 491,
+      "person_id": "P1950_000007",
+      "family_id": "F1950_000007",
+      "record_id": 491,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 492,
+      "person_id": "P1950_000008",
+      "family_id": "F1950_000008",
+      "record_id": 492,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 493,
+      "person_id": "P1950_000009",
+      "family_id": "F1950_000009",
+      "record_id": 493,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 494,
+      "person_id": "P1950_00001",
+      "family_id": "F1950_00001",
+      "record_id": 494,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 495,
+      "person_id": "P1950_000011",
+      "family_id": "F1950_000011",
+      "record_id": 495,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 496,
+      "person_id": "P1950_000012",
+      "family_id": "F1950_000012",
+      "record_id": 496,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 497,
+      "person_id": "P1950_000013",
+      "family_id": "F1950_000013",
+      "record_id": 497,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 498,
+      "person_id": "P1950_000014",
+      "family_id": "F1950_000014",
+      "record_id": 498,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 499,
+      "person_id": "P1950_000015",
+      "family_id": "F1950_000015",
+      "record_id": 499,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 500,
+      "person_id": "P1950_000016",
+      "family_id": "F1950_000016",
+      "record_id": 500,
+      "relation_to_head": "Son"
+    }
+  ]
+}

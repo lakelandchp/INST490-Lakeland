@@ -1,0 +1,608 @@
+{
+  "table": "property_status",
+  "batch_start": 100,
+  "error": "{'code': '23505', 'details': 'Key (property_id)=(101) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"property_status_pkey\"'}",
+  "timestamp": "2024-12-06 15:01:24",
+  "data": [
+    {
+      "property_id": 101,
+      "person_id": "P1900_0001",
+      "record_id": 712,
+      "owned_rented": null
+    },
+    {
+      "property_id": 102,
+      "person_id": "P1900_000101",
+      "record_id": 713,
+      "owned_rented": null
+    },
+    {
+      "property_id": 103,
+      "person_id": "P1900_000102",
+      "record_id": 714,
+      "owned_rented": null
+    },
+    {
+      "property_id": 104,
+      "person_id": "P1900_000103",
+      "record_id": 715,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 105,
+      "person_id": "P1900_000104",
+      "record_id": 716,
+      "owned_rented": null
+    },
+    {
+      "property_id": 106,
+      "person_id": "P1900_000105",
+      "record_id": 717,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 107,
+      "person_id": "P1900_000106",
+      "record_id": 718,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 108,
+      "person_id": "P1900_000107",
+      "record_id": 719,
+      "owned_rented": null
+    },
+    {
+      "property_id": 109,
+      "person_id": "P1900_000108",
+      "record_id": 720,
+      "owned_rented": null
+    },
+    {
+      "property_id": 110,
+      "person_id": "P1900_000109",
+      "record_id": 721,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 111,
+      "person_id": "P1900_00011",
+      "record_id": 722,
+      "owned_rented": null
+    },
+    {
+      "property_id": 112,
+      "person_id": "P1900_000111",
+      "record_id": 723,
+      "owned_rented": null
+    },
+    {
+      "property_id": 113,
+      "person_id": "P1900_000112",
+      "record_id": 724,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 114,
+      "person_id": "P1900_000113",
+      "record_id": 725,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 115,
+      "person_id": "P1900_000114",
+      "record_id": 726,
+      "owned_rented": null
+    },
+    {
+      "property_id": 116,
+      "person_id": "P1900_000115",
+      "record_id": 727,
+      "owned_rented": null
+    },
+    {
+      "property_id": 117,
+      "person_id": "P1900_000116",
+      "record_id": 728,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 118,
+      "person_id": "P1900_000117",
+      "record_id": 729,
+      "owned_rented": null
+    },
+    {
+      "property_id": 119,
+      "person_id": "P1900_000118",
+      "record_id": 730,
+      "owned_rented": null
+    },
+    {
+      "property_id": 120,
+      "person_id": "P1900_000119",
+      "record_id": 731,
+      "owned_rented": null
+    },
+    {
+      "property_id": 121,
+      "person_id": "P1900_00012",
+      "record_id": 732,
+      "owned_rented": null
+    },
+    {
+      "property_id": 122,
+      "person_id": "P1900_000121",
+      "record_id": 733,
+      "owned_rented": null
+    },
+    {
+      "property_id": 123,
+      "person_id": "P1900_000122",
+      "record_id": 734,
+      "owned_rented": null
+    },
+    {
+      "property_id": 124,
+      "person_id": "P1900_000123",
+      "record_id": 735,
+      "owned_rented": null
+    },
+    {
+      "property_id": 125,
+      "person_id": "P1900_000124",
+      "record_id": 736,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 126,
+      "person_id": "P1900_000125",
+      "record_id": 737,
+      "owned_rented": null
+    },
+    {
+      "property_id": 127,
+      "person_id": "P1900_000126",
+      "record_id": 738,
+      "owned_rented": null
+    },
+    {
+      "property_id": 128,
+      "person_id": "P1900_000127",
+      "record_id": 739,
+      "owned_rented": null
+    },
+    {
+      "property_id": 129,
+      "person_id": "P1900_000128",
+      "record_id": 740,
+      "owned_rented": null
+    },
+    {
+      "property_id": 130,
+      "person_id": "P1900_000129",
+      "record_id": 741,
+      "owned_rented": null
+    },
+    {
+      "property_id": 131,
+      "person_id": "P1900_00013",
+      "record_id": 742,
+      "owned_rented": null
+    },
+    {
+      "property_id": 132,
+      "person_id": "P1900_000131",
+      "record_id": 743,
+      "owned_rented": null
+    },
+    {
+      "property_id": 133,
+      "person_id": "P1900_000132",
+      "record_id": 744,
+      "owned_rented": null
+    },
+    {
+      "property_id": 134,
+      "person_id": "P1900_000133",
+      "record_id": 745,
+      "owned_rented": null
+    },
+    {
+      "property_id": 135,
+      "person_id": "P1900_000134",
+      "record_id": 746,
+      "owned_rented": null
+    },
+    {
+      "property_id": 136,
+      "person_id": "P1900_000135",
+      "record_id": 747,
+      "owned_rented": null
+    },
+    {
+      "property_id": 137,
+      "person_id": "P1900_000136",
+      "record_id": 748,
+      "owned_rented": null
+    },
+    {
+      "property_id": 138,
+      "person_id": "P1900_000137",
+      "record_id": 749,
+      "owned_rented": null
+    },
+    {
+      "property_id": 139,
+      "person_id": "P1900_000138",
+      "record_id": 750,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 140,
+      "person_id": "P1900_000139",
+      "record_id": 751,
+      "owned_rented": null
+    },
+    {
+      "property_id": 141,
+      "person_id": "P1900_00014",
+      "record_id": 752,
+      "owned_rented": null
+    },
+    {
+      "property_id": 142,
+      "person_id": "P1900_000141",
+      "record_id": 753,
+      "owned_rented": null
+    },
+    {
+      "property_id": 143,
+      "person_id": "P1900_000142",
+      "record_id": 754,
+      "owned_rented": null
+    },
+    {
+      "property_id": 144,
+      "person_id": "P1900_000143",
+      "record_id": 755,
+      "owned_rented": null
+    },
+    {
+      "property_id": 145,
+      "person_id": "P1900_000144",
+      "record_id": 756,
+      "owned_rented": null
+    },
+    {
+      "property_id": 146,
+      "person_id": "P1900_000145",
+      "record_id": 757,
+      "owned_rented": null
+    },
+    {
+      "property_id": 147,
+      "person_id": "P1900_000146",
+      "record_id": 758,
+      "owned_rented": null
+    },
+    {
+      "property_id": 148,
+      "person_id": "P1900_000147",
+      "record_id": 759,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 149,
+      "person_id": "P1900_000148",
+      "record_id": 760,
+      "owned_rented": null
+    },
+    {
+      "property_id": 150,
+      "person_id": "P1900_000149",
+      "record_id": 761,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 151,
+      "person_id": "P1900_00015",
+      "record_id": 762,
+      "owned_rented": null
+    },
+    {
+      "property_id": 152,
+      "person_id": "P1900_000151",
+      "record_id": 763,
+      "owned_rented": null
+    },
+    {
+      "property_id": 153,
+      "person_id": "P1900_000152",
+      "record_id": 764,
+      "owned_rented": null
+    },
+    {
+      "property_id": 154,
+      "person_id": "P1900_000153",
+      "record_id": 765,
+      "owned_rented": null
+    },
+    {
+      "property_id": 155,
+      "person_id": "P1900_000154",
+      "record_id": 766,
+      "owned_rented": null
+    },
+    {
+      "property_id": 156,
+      "person_id": "P1900_000155",
+      "record_id": 767,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 157,
+      "person_id": "P1900_000156",
+      "record_id": 768,
+      "owned_rented": null
+    },
+    {
+      "property_id": 158,
+      "person_id": "P1900_000157",
+      "record_id": 769,
+      "owned_rented": null
+    },
+    {
+      "property_id": 159,
+      "person_id": "P1900_000158",
+      "record_id": 770,
+      "owned_rented": null
+    },
+    {
+      "property_id": 160,
+      "person_id": "P1900_000159",
+      "record_id": 771,
+      "owned_rented": null
+    },
+    {
+      "property_id": 161,
+      "person_id": "P1900_00016",
+      "record_id": 772,
+      "owned_rented": "O"
+    },
+    {
+      "property_id": 162,
+      "person_id": "P1900_000161",
+      "record_id": 773,
+      "owned_rented": null
+    },
+    {
+      "property_id": 163,
+      "person_id": "P1900_000162",
+      "record_id": 774,
+      "owned_rented": null
+    },
+    {
+      "property_id": 164,
+      "person_id": "P1900_000163",
+      "record_id": 775,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 165,
+      "person_id": "P1900_000164",
+      "record_id": 776,
+      "owned_rented": null
+    },
+    {
+      "property_id": 166,
+      "person_id": "P1900_000165",
+      "record_id": 777,
+      "owned_rented": null
+    },
+    {
+      "property_id": 167,
+      "person_id": "P1900_000166",
+      "record_id": 778,
+      "owned_rented": null
+    },
+    {
+      "property_id": 168,
+      "person_id": "P1900_000167",
+      "record_id": 779,
+      "owned_rented": null
+    },
+    {
+      "property_id": 169,
+      "person_id": "P1900_000168",
+      "record_id": 780,
+      "owned_rented": null
+    },
+    {
+      "property_id": 170,
+      "person_id": "P1900_000169",
+      "record_id": 781,
+      "owned_rented": null
+    },
+    {
+      "property_id": 171,
+      "person_id": "P1900_00017",
+      "record_id": 782,
+      "owned_rented": null
+    },
+    {
+      "property_id": 172,
+      "person_id": "P1900_000171",
+      "record_id": 783,
+      "owned_rented": null
+    },
+    {
+      "property_id": 173,
+      "person_id": "P1900_000172",
+      "record_id": 784,
+      "owned_rented": null
+    },
+    {
+      "property_id": 174,
+      "person_id": "P1900_000173",
+      "record_id": 785,
+      "owned_rented": null
+    },
+    {
+      "property_id": 175,
+      "person_id": "P1900_000174",
+      "record_id": 786,
+      "owned_rented": null
+    },
+    {
+      "property_id": 176,
+      "person_id": "P1900_000175",
+      "record_id": 787,
+      "owned_rented": null
+    },
+    {
+      "property_id": 177,
+      "person_id": "P1900_000176",
+      "record_id": 788,
+      "owned_rented": null
+    },
+    {
+      "property_id": 178,
+      "person_id": "P1900_000177",
+      "record_id": 789,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 179,
+      "person_id": "P1900_000178",
+      "record_id": 790,
+      "owned_rented": null
+    },
+    {
+      "property_id": 180,
+      "person_id": "P1900_000179",
+      "record_id": 791,
+      "owned_rented": null
+    },
+    {
+      "property_id": 181,
+      "person_id": "P1900_00018",
+      "record_id": 792,
+      "owned_rented": null
+    },
+    {
+      "property_id": 182,
+      "person_id": "P1900_000181",
+      "record_id": 793,
+      "owned_rented": null
+    },
+    {
+      "property_id": 183,
+      "person_id": "P1900_000182",
+      "record_id": 794,
+      "owned_rented": "O"
+    },
+    {
+      "property_id": 184,
+      "person_id": "P1900_000183",
+      "record_id": 795,
+      "owned_rented": null
+    },
+    {
+      "property_id": 185,
+      "person_id": "P1900_000184",
+      "record_id": 796,
+      "owned_rented": null
+    },
+    {
+      "property_id": 186,
+      "person_id": "P1900_000185",
+      "record_id": 797,
+      "owned_rented": null
+    },
+    {
+      "property_id": 187,
+      "person_id": "P1920_",
+      "record_id": 612,
+      "owned_rented": null
+    },
+    {
+      "property_id": 188,
+      "person_id": "P1920_000001",
+      "record_id": 613,
+      "owned_rented": null
+    },
+    {
+      "property_id": 189,
+      "person_id": "P1920_000002",
+      "record_id": 614,
+      "owned_rented": null
+    },
+    {
+      "property_id": 190,
+      "person_id": "P1920_000003",
+      "record_id": 615,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 191,
+      "person_id": "P1920_000004",
+      "record_id": 616,
+      "owned_rented": null
+    },
+    {
+      "property_id": 192,
+      "person_id": "P1920_000005",
+      "record_id": 617,
+      "owned_rented": null
+    },
+    {
+      "property_id": 193,
+      "person_id": "P1920_000006",
+      "record_id": 618,
+      "owned_rented": "R"
+    },
+    {
+      "property_id": 194,
+      "person_id": "P1920_000007",
+      "record_id": 619,
+      "owned_rented": null
+    },
+    {
+      "property_id": 195,
+      "person_id": "P1920_000008",
+      "record_id": 620,
+      "owned_rented": null
+    },
+    {
+      "property_id": 196,
+      "person_id": "P1920_000009",
+      "record_id": 621,
+      "owned_rented": null
+    },
+    {
+      "property_id": 197,
+      "person_id": "P1920_00001",
+      "record_id": 622,
+      "owned_rented": null
+    },
+    {
+      "property_id": 198,
+      "person_id": "P1920_000011",
+      "record_id": 623,
+      "owned_rented": null
+    },
+    {
+      "property_id": 199,
+      "person_id": "P1920_000012",
+      "record_id": 624,
+      "owned_rented": null
+    },
+    {
+      "property_id": 200,
+      "person_id": "P1920_000013",
+      "record_id": 625,
+      "owned_rented": "O"
+    }
+  ]
+}

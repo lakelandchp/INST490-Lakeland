@@ -1,0 +1,708 @@
+{
+  "table": "occupations",
+  "batch_start": 400,
+  "error": "{'code': '23505', 'details': 'Key (occupation_id)=(401) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"occupations_pkey\"'}",
+  "timestamp": "2024-12-06 14:49:44",
+  "data": [
+    {
+      "occupation_id": 401,
+      "person_id": "P1930_000028",
+      "record_id": 776,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 402,
+      "person_id": "P1930_000029",
+      "record_id": 777,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 403,
+      "person_id": "P1930_00003",
+      "record_id": 778,
+      "work": "Guard",
+      "business": "Natl Museum"
+    },
+    {
+      "occupation_id": 404,
+      "person_id": "P1930_000031",
+      "record_id": 779,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 405,
+      "person_id": "P1930_000032",
+      "record_id": 780,
+      "work": "Maid",
+      "business": "Reil Department Store"
+    },
+    {
+      "occupation_id": 406,
+      "person_id": "P1930_000033",
+      "record_id": 781,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 407,
+      "person_id": "P1930_000034",
+      "record_id": 782,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 408,
+      "person_id": "P1930_000035",
+      "record_id": 783,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 409,
+      "person_id": "P1930_000036",
+      "record_id": 784,
+      "work": "Janitress",
+      "business": "Pullman Cars"
+    },
+    {
+      "occupation_id": 410,
+      "person_id": "P1930_000037",
+      "record_id": 785,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 411,
+      "person_id": "P1930_000038",
+      "record_id": 786,
+      "work": "Dishwasher",
+      "business": "University"
+    },
+    {
+      "occupation_id": 412,
+      "person_id": "P1930_000039",
+      "record_id": 787,
+      "work": "Laborer",
+      "business": "Steam Railway"
+    },
+    {
+      "occupation_id": 413,
+      "person_id": "P1930_00004",
+      "record_id": 788,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 414,
+      "person_id": "P1930_000041",
+      "record_id": 789,
+      "work": "Servant",
+      "business": "General Housework"
+    },
+    {
+      "occupation_id": 415,
+      "person_id": "P1930_000042",
+      "record_id": 790,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 416,
+      "person_id": "P1930_000043",
+      "record_id": 791,
+      "work": "Repairman",
+      "business": "St Railway"
+    },
+    {
+      "occupation_id": 417,
+      "person_id": "P1930_000044",
+      "record_id": 792,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 418,
+      "person_id": "P1930_000045",
+      "record_id": 793,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 419,
+      "person_id": "P1930_000046",
+      "record_id": 794,
+      "work": "Chauffeur",
+      "business": "Private Family"
+    },
+    {
+      "occupation_id": 420,
+      "person_id": "P1930_000047",
+      "record_id": 795,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 421,
+      "person_id": "P1930_000048",
+      "record_id": 796,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 422,
+      "person_id": "P1930_000049",
+      "record_id": 797,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 423,
+      "person_id": "P1940_",
+      "record_id": 737,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 424,
+      "person_id": "P1940_000001",
+      "record_id": 738,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 425,
+      "person_id": "P1940_000002",
+      "record_id": 739,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 426,
+      "person_id": "P1940_000003",
+      "record_id": 740,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 427,
+      "person_id": "P1940_000004",
+      "record_id": 741,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 428,
+      "person_id": "P1940_000005",
+      "record_id": 742,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 429,
+      "person_id": "P1940_000006",
+      "record_id": 743,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 430,
+      "person_id": "P1940_000007",
+      "record_id": 744,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 431,
+      "person_id": "P1940_000008",
+      "record_id": 745,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 432,
+      "person_id": "P1940_000009",
+      "record_id": 746,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 433,
+      "person_id": "P1940_00001",
+      "record_id": 747,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 434,
+      "person_id": "P1940_000011",
+      "record_id": 748,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 435,
+      "person_id": "P1940_000012",
+      "record_id": 749,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 436,
+      "person_id": "P1940_000013",
+      "record_id": 750,
+      "work": "Laborer",
+      "business": "Sanitary Commission"
+    },
+    {
+      "occupation_id": 437,
+      "person_id": "P1940_000014",
+      "record_id": 751,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 438,
+      "person_id": "P1940_000015",
+      "record_id": 752,
+      "work": "Truck Driver",
+      "business": "Sanitary Commission"
+    },
+    {
+      "occupation_id": 439,
+      "person_id": "P1940_000016",
+      "record_id": 753,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 440,
+      "person_id": "P1940_000017",
+      "record_id": 754,
+      "work": "Maid",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 441,
+      "person_id": "P1940_000018",
+      "record_id": 755,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 442,
+      "person_id": "P1940_000019",
+      "record_id": 756,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 443,
+      "person_id": "P1940_00002",
+      "record_id": 757,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 444,
+      "person_id": "P1940_000021",
+      "record_id": 758,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 445,
+      "person_id": "P1940_000022",
+      "record_id": 759,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 446,
+      "person_id": "P1940_000023",
+      "record_id": 760,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 447,
+      "person_id": "P1940_000024",
+      "record_id": 761,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 448,
+      "person_id": "P1940_000025",
+      "record_id": 762,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 449,
+      "person_id": "P1940_000026",
+      "record_id": 763,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 450,
+      "person_id": "P1940_000027",
+      "record_id": 764,
+      "work": "Laborer",
+      "business": "Sanitary Commission"
+    },
+    {
+      "occupation_id": 451,
+      "person_id": "P1940_000028",
+      "record_id": 765,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 452,
+      "person_id": "P1940_000029",
+      "record_id": 766,
+      "work": "New Worker",
+      "business": null
+    },
+    {
+      "occupation_id": 453,
+      "person_id": "P1940_00003",
+      "record_id": 767,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 454,
+      "person_id": "P1940_000031",
+      "record_id": 768,
+      "work": "Book Binder",
+      "business": "Private Work"
+    },
+    {
+      "occupation_id": 455,
+      "person_id": "P1940_000032",
+      "record_id": 769,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 456,
+      "person_id": "P1940_000033",
+      "record_id": 770,
+      "work": "Janitor",
+      "business": "Pullman Yard"
+    },
+    {
+      "occupation_id": 457,
+      "person_id": "P1940_000034",
+      "record_id": 771,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 458,
+      "person_id": "P1940_000035",
+      "record_id": 772,
+      "work": "Laborer",
+      "business": "Railroad"
+    },
+    {
+      "occupation_id": 459,
+      "person_id": "P1940_000036",
+      "record_id": 773,
+      "work": "Maid",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 460,
+      "person_id": "P1940_000037",
+      "record_id": 774,
+      "work": "Laborer",
+      "business": "Sanitary Commission"
+    },
+    {
+      "occupation_id": 461,
+      "person_id": "P1940_000038",
+      "record_id": 775,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 462,
+      "person_id": "P1940_000039",
+      "record_id": 776,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 463,
+      "person_id": "P1940_00004",
+      "record_id": 777,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 464,
+      "person_id": "P1940_000041",
+      "record_id": 778,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 465,
+      "person_id": "P1940_000042",
+      "record_id": 779,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 466,
+      "person_id": "P1940_000043",
+      "record_id": 780,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 467,
+      "person_id": "P1940_000044",
+      "record_id": 781,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 468,
+      "person_id": "P1940_000045",
+      "record_id": 782,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 469,
+      "person_id": "P1940_000046",
+      "record_id": 783,
+      "work": "Waiter",
+      "business": "Univ of Md"
+    },
+    {
+      "occupation_id": 470,
+      "person_id": "P1940_000047",
+      "record_id": 784,
+      "work": "Laborer",
+      "business": "Private Work"
+    },
+    {
+      "occupation_id": 471,
+      "person_id": "P1940_000048",
+      "record_id": 785,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 472,
+      "person_id": "P1940_000049",
+      "record_id": 786,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 473,
+      "person_id": "P1940_00005",
+      "record_id": 787,
+      "work": "Maid",
+      "business": "Round House"
+    },
+    {
+      "occupation_id": 474,
+      "person_id": "P1940_000051",
+      "record_id": 788,
+      "work": "Cook",
+      "business": "Univ of Md"
+    },
+    {
+      "occupation_id": 475,
+      "person_id": "P1940_000052",
+      "record_id": 789,
+      "work": "Waiter",
+      "business": "Univ of Md"
+    },
+    {
+      "occupation_id": 476,
+      "person_id": "P1940_000053",
+      "record_id": 790,
+      "work": "Domestic",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 477,
+      "person_id": "P1940_000054",
+      "record_id": 791,
+      "work": "Maid",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 478,
+      "person_id": "P1940_000055",
+      "record_id": 792,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 479,
+      "person_id": "P1940_000056",
+      "record_id": 793,
+      "work": "Maid",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 480,
+      "person_id": "P1940_000057",
+      "record_id": 794,
+      "work": "Baker",
+      "business": "Univ of Md"
+    },
+    {
+      "occupation_id": 481,
+      "person_id": "P1940_000058",
+      "record_id": 795,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 482,
+      "person_id": "P1940_000059",
+      "record_id": 796,
+      "work": "Teacher",
+      "business": "Public School"
+    },
+    {
+      "occupation_id": 483,
+      "person_id": "P1940_00006",
+      "record_id": 797,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 484,
+      "person_id": "P1950_",
+      "record_id": 484,
+      "work": "Domestic Helper",
+      "business": "Private Houses"
+    },
+    {
+      "occupation_id": 485,
+      "person_id": "P1950_000001",
+      "record_id": 485,
+      "work": "Laborer",
+      "business": "City Sanitary Commission"
+    },
+    {
+      "occupation_id": 486,
+      "person_id": "P1950_000002",
+      "record_id": 486,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 487,
+      "person_id": "P1950_000003",
+      "record_id": 487,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 488,
+      "person_id": "P1950_000004",
+      "record_id": 488,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 489,
+      "person_id": "P1950_000005",
+      "record_id": 489,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 490,
+      "person_id": "P1950_000006",
+      "record_id": 490,
+      "work": "Truck Driver",
+      "business": "Fuel And Feed Company"
+    },
+    {
+      "occupation_id": 491,
+      "person_id": "P1950_000007",
+      "record_id": 491,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 492,
+      "person_id": "P1950_000008",
+      "record_id": 492,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 493,
+      "person_id": "P1950_000009",
+      "record_id": 493,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 494,
+      "person_id": "P1950_00001",
+      "record_id": 494,
+      "work": "Labor Plumbing",
+      "business": "Plumbing Company"
+    },
+    {
+      "occupation_id": 495,
+      "person_id": "P1950_000011",
+      "record_id": 495,
+      "work": "Cook",
+      "business": "Fraternity House"
+    },
+    {
+      "occupation_id": 496,
+      "person_id": "P1950_000012",
+      "record_id": 496,
+      "work": "Typing And Filing",
+      "business": "Navy Dept"
+    },
+    {
+      "occupation_id": 497,
+      "person_id": "P1950_000013",
+      "record_id": 497,
+      "work": "Maid",
+      "business": "Fraternity House"
+    },
+    {
+      "occupation_id": 498,
+      "person_id": "P1950_000014",
+      "record_id": 498,
+      "work": "Housekeeper",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 499,
+      "person_id": "P1950_000015",
+      "record_id": 499,
+      "work": "Housekeeper",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 500,
+      "person_id": "P1950_000016",
+      "record_id": 500,
+      "work": "Janitor",
+      "business": "State University"
+    }
+  ]
+}

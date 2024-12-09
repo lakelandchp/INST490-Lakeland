@@ -1,0 +1,908 @@
+{
+  "table": "locations",
+  "batch_start": 200,
+  "error": "{'code': '23505', 'details': 'Key (location_id)=(201) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"locations_pkey\"'}",
+  "timestamp": "2024-12-06 15:02:07",
+  "data": [
+    {
+      "location_id": 201,
+      "record_id": 626,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "116",
+      "family_number": "127"
+    },
+    {
+      "location_id": 202,
+      "record_id": 627,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "116",
+      "family_number": "127"
+    },
+    {
+      "location_id": 203,
+      "record_id": 628,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "116",
+      "family_number": "127"
+    },
+    {
+      "location_id": 204,
+      "record_id": 629,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "116",
+      "family_number": "127"
+    },
+    {
+      "location_id": 205,
+      "record_id": 630,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "116",
+      "family_number": "127"
+    },
+    {
+      "location_id": 206,
+      "record_id": 631,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 207,
+      "record_id": 632,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 208,
+      "record_id": 633,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 209,
+      "record_id": 634,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 210,
+      "record_id": 635,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 211,
+      "record_id": 636,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 212,
+      "record_id": 637,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 213,
+      "record_id": 638,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 214,
+      "record_id": 639,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 215,
+      "record_id": 640,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "117",
+      "family_number": "129"
+    },
+    {
+      "location_id": 216,
+      "record_id": 641,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "118",
+      "family_number": "13"
+    },
+    {
+      "location_id": 217,
+      "record_id": 642,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "118",
+      "family_number": "13"
+    },
+    {
+      "location_id": 218,
+      "record_id": 643,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "118",
+      "family_number": "13"
+    },
+    {
+      "location_id": 219,
+      "record_id": 644,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "118",
+      "family_number": "13"
+    },
+    {
+      "location_id": 220,
+      "record_id": 645,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "118",
+      "family_number": "13"
+    },
+    {
+      "location_id": 221,
+      "record_id": 646,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "118",
+      "family_number": "13"
+    },
+    {
+      "location_id": 222,
+      "record_id": 647,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "118",
+      "family_number": "13"
+    },
+    {
+      "location_id": 223,
+      "record_id": 648,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "36",
+      "family_number": "39"
+    },
+    {
+      "location_id": 224,
+      "record_id": 649,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "36",
+      "family_number": "39"
+    },
+    {
+      "location_id": 225,
+      "record_id": 650,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "36",
+      "family_number": "39"
+    },
+    {
+      "location_id": 226,
+      "record_id": 651,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "36",
+      "family_number": "39"
+    },
+    {
+      "location_id": 227,
+      "record_id": 652,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "36",
+      "family_number": "39"
+    },
+    {
+      "location_id": 228,
+      "record_id": 653,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "36",
+      "family_number": "39"
+    },
+    {
+      "location_id": 229,
+      "record_id": 654,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "36",
+      "family_number": "39"
+    },
+    {
+      "location_id": 230,
+      "record_id": 655,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 231,
+      "record_id": 656,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 232,
+      "record_id": 657,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 233,
+      "record_id": 658,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 234,
+      "record_id": 659,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 235,
+      "record_id": 660,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 236,
+      "record_id": 661,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 237,
+      "record_id": 662,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 238,
+      "record_id": 663,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 239,
+      "record_id": 664,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 240,
+      "record_id": 665,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "37",
+      "family_number": "4"
+    },
+    {
+      "location_id": 241,
+      "record_id": 666,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "38",
+      "family_number": "41"
+    },
+    {
+      "location_id": 242,
+      "record_id": 667,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "38",
+      "family_number": "41"
+    },
+    {
+      "location_id": 243,
+      "record_id": 668,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "38",
+      "family_number": "41"
+    },
+    {
+      "location_id": 244,
+      "record_id": 669,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 245,
+      "record_id": 670,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 246,
+      "record_id": 671,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 247,
+      "record_id": 672,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 248,
+      "record_id": 673,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 249,
+      "record_id": 674,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 250,
+      "record_id": 675,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 251,
+      "record_id": 676,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 252,
+      "record_id": 677,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 253,
+      "record_id": 678,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 254,
+      "record_id": 679,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 255,
+      "record_id": 680,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "39",
+      "family_number": "42"
+    },
+    {
+      "location_id": 256,
+      "record_id": 681,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "4",
+      "family_number": "43"
+    },
+    {
+      "location_id": 257,
+      "record_id": 682,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "4",
+      "family_number": "43"
+    },
+    {
+      "location_id": 258,
+      "record_id": 683,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "4",
+      "family_number": "43"
+    },
+    {
+      "location_id": 259,
+      "record_id": 684,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "4",
+      "family_number": "43"
+    },
+    {
+      "location_id": 260,
+      "record_id": 685,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "4",
+      "family_number": "43"
+    },
+    {
+      "location_id": 261,
+      "record_id": 686,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "4",
+      "family_number": "43"
+    },
+    {
+      "location_id": 262,
+      "record_id": 687,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "41",
+      "family_number": "44"
+    },
+    {
+      "location_id": 263,
+      "record_id": 688,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "41",
+      "family_number": "44"
+    },
+    {
+      "location_id": 264,
+      "record_id": 689,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "41",
+      "family_number": "44"
+    },
+    {
+      "location_id": 265,
+      "record_id": 690,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "41",
+      "family_number": "44"
+    },
+    {
+      "location_id": 266,
+      "record_id": 691,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "41",
+      "family_number": "44"
+    },
+    {
+      "location_id": 267,
+      "record_id": 692,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "42",
+      "family_number": "45"
+    },
+    {
+      "location_id": 268,
+      "record_id": 693,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "42",
+      "family_number": "45"
+    },
+    {
+      "location_id": 269,
+      "record_id": 694,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "42",
+      "family_number": "45"
+    },
+    {
+      "location_id": 270,
+      "record_id": 695,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "42",
+      "family_number": "45"
+    },
+    {
+      "location_id": 271,
+      "record_id": 696,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "42",
+      "family_number": "45"
+    },
+    {
+      "location_id": 272,
+      "record_id": 697,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "42",
+      "family_number": "45"
+    },
+    {
+      "location_id": 273,
+      "record_id": 698,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "42",
+      "family_number": "45"
+    },
+    {
+      "location_id": 274,
+      "record_id": 699,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "9",
+      "family_number": "97"
+    },
+    {
+      "location_id": 275,
+      "record_id": 700,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "9",
+      "family_number": "97"
+    },
+    {
+      "location_id": 276,
+      "record_id": 701,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "9",
+      "family_number": "97"
+    },
+    {
+      "location_id": 277,
+      "record_id": 702,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "9",
+      "family_number": "97"
+    },
+    {
+      "location_id": 278,
+      "record_id": 703,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "9",
+      "family_number": "97"
+    },
+    {
+      "location_id": 279,
+      "record_id": 704,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "9",
+      "family_number": "97"
+    },
+    {
+      "location_id": 280,
+      "record_id": 705,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "9",
+      "family_number": "98"
+    },
+    {
+      "location_id": 281,
+      "record_id": 706,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "9",
+      "family_number": "98"
+    },
+    {
+      "location_id": 282,
+      "record_id": 707,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "91",
+      "family_number": "99"
+    },
+    {
+      "location_id": 283,
+      "record_id": 708,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "91",
+      "family_number": "99"
+    },
+    {
+      "location_id": 284,
+      "record_id": 709,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "91",
+      "family_number": "1"
+    },
+    {
+      "location_id": 285,
+      "record_id": 710,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "91",
+      "family_number": "1"
+    },
+    {
+      "location_id": 286,
+      "record_id": 711,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "91",
+      "family_number": "1"
+    },
+    {
+      "location_id": 287,
+      "record_id": 712,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "91",
+      "family_number": "1"
+    },
+    {
+      "location_id": 288,
+      "record_id": 713,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "91",
+      "family_number": "1"
+    },
+    {
+      "location_id": 289,
+      "record_id": 714,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "91",
+      "family_number": "1"
+    },
+    {
+      "location_id": 290,
+      "record_id": 715,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "92",
+      "family_number": "101"
+    },
+    {
+      "location_id": 291,
+      "record_id": 716,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "92",
+      "family_number": "101"
+    },
+    {
+      "location_id": 292,
+      "record_id": 717,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "92",
+      "family_number": "101"
+    },
+    {
+      "location_id": 293,
+      "record_id": 718,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "92",
+      "family_number": "101"
+    },
+    {
+      "location_id": 294,
+      "record_id": 719,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "92",
+      "family_number": "101"
+    },
+    {
+      "location_id": 295,
+      "record_id": 720,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "92",
+      "family_number": "101"
+    },
+    {
+      "location_id": 296,
+      "record_id": 721,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "92",
+      "family_number": "101"
+    },
+    {
+      "location_id": 297,
+      "record_id": 722,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "93",
+      "family_number": "102"
+    },
+    {
+      "location_id": 298,
+      "record_id": 723,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "93",
+      "family_number": "102"
+    },
+    {
+      "location_id": 299,
+      "record_id": 724,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "93",
+      "family_number": "102"
+    },
+    {
+      "location_id": 300,
+      "record_id": 725,
+      "street_name": null,
+      "house_num": null,
+      "build_num": null,
+      "dwelling_number": "93",
+      "family_number": "102"
+    }
+  ]
+}

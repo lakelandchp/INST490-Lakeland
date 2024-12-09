@@ -1,0 +1,908 @@
+{
+  "table": "personal_attributes",
+  "batch_start": 300,
+  "error": "{'code': '23503', 'details': 'Key (person_id)=(P1920_000114) is not present in table \"persons\".', 'hint': None, 'message': 'insert or update on table \"personal_attributes\" violates foreign key constraint \"personal_attributes_person_id_fkey\"'}",
+  "timestamp": "2024-12-06 14:25:38",
+  "data": [
+    {
+      "attribute_id": 301,
+      "person_id": "P1920_000114",
+      "record_id": 726,
+      "sex": "M",
+      "race": "B",
+      "age": "49",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 302,
+      "person_id": "P1920_000115",
+      "record_id": 727,
+      "sex": "F",
+      "race": "B",
+      "age": "35",
+      "place_birth": "North Carolina"
+    },
+    {
+      "attribute_id": 303,
+      "person_id": "P1920_000116",
+      "record_id": 728,
+      "sex": "F",
+      "race": "B",
+      "age": "12",
+      "place_birth": "North Carolina"
+    },
+    {
+      "attribute_id": 304,
+      "person_id": "P1920_000117",
+      "record_id": 729,
+      "sex": "M",
+      "race": "B",
+      "age": "6",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 305,
+      "person_id": "P1920_000118",
+      "record_id": 730,
+      "sex": "M",
+      "race": "B",
+      "age": "0",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 306,
+      "person_id": "P1920_000119",
+      "record_id": 731,
+      "sex": "F",
+      "race": "B",
+      "age": "48",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 307,
+      "person_id": "P1920_00012",
+      "record_id": 732,
+      "sex": "F",
+      "race": "B",
+      "age": "20",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 308,
+      "person_id": "P1920_000121",
+      "record_id": 733,
+      "sex": "M",
+      "race": "B",
+      "age": "18",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 309,
+      "person_id": "P1920_000122",
+      "record_id": 734,
+      "sex": "F",
+      "race": "B",
+      "age": "11",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 310,
+      "person_id": "P1920_000123",
+      "record_id": 735,
+      "sex": "F",
+      "race": "B",
+      "age": "9",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 311,
+      "person_id": "P1920_000124",
+      "record_id": 736,
+      "sex": "M",
+      "race": "B",
+      "age": "26",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 312,
+      "person_id": "P1920_000125",
+      "record_id": 737,
+      "sex": "M",
+      "race": "B",
+      "age": "29",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 313,
+      "person_id": "P1920_000126",
+      "record_id": 738,
+      "sex": "F",
+      "race": "B",
+      "age": "27",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 314,
+      "person_id": "P1920_000127",
+      "record_id": 739,
+      "sex": "F",
+      "race": "B",
+      "age": "9",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 315,
+      "person_id": "P1920_000128",
+      "record_id": 740,
+      "sex": "F",
+      "race": "B",
+      "age": "6",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 316,
+      "person_id": "P1920_000129",
+      "record_id": 741,
+      "sex": "M",
+      "race": "B",
+      "age": "4",
+      "place_birth": "DC"
+    },
+    {
+      "attribute_id": 317,
+      "person_id": "P1920_00013",
+      "record_id": 742,
+      "sex": "F",
+      "race": "B",
+      "age": "2",
+      "place_birth": "DC"
+    },
+    {
+      "attribute_id": 318,
+      "person_id": "P1920_000131",
+      "record_id": 743,
+      "sex": "M",
+      "race": "B",
+      "age": "44",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 319,
+      "person_id": "P1920_000132",
+      "record_id": 744,
+      "sex": "F",
+      "race": "B",
+      "age": "33",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 320,
+      "person_id": "P1920_000133",
+      "record_id": 745,
+      "sex": "M",
+      "race": "B",
+      "age": "39",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 321,
+      "person_id": "P1920_000134",
+      "record_id": 746,
+      "sex": "F",
+      "race": "B",
+      "age": "42",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 322,
+      "person_id": "P1920_000135",
+      "record_id": 747,
+      "sex": "M",
+      "race": "B",
+      "age": "16",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 323,
+      "person_id": "P1920_000136",
+      "record_id": 748,
+      "sex": "M",
+      "race": "B",
+      "age": "28",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 324,
+      "person_id": "P1920_000137",
+      "record_id": 749,
+      "sex": "M",
+      "race": "B",
+      "age": "52",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 325,
+      "person_id": "P1920_000138",
+      "record_id": 750,
+      "sex": "F",
+      "race": "B",
+      "age": "48",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 326,
+      "person_id": "P1920_000139",
+      "record_id": 751,
+      "sex": "M",
+      "race": "B",
+      "age": "22",
+      "place_birth": "DC"
+    },
+    {
+      "attribute_id": 327,
+      "person_id": "P1920_00014",
+      "record_id": 752,
+      "sex": "F",
+      "race": "B",
+      "age": "19",
+      "place_birth": "DC"
+    },
+    {
+      "attribute_id": 328,
+      "person_id": "P1920_000141",
+      "record_id": 753,
+      "sex": "M",
+      "race": "B",
+      "age": "21",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 329,
+      "person_id": "P1920_000142",
+      "record_id": 754,
+      "sex": "M",
+      "race": "B",
+      "age": "52",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 330,
+      "person_id": "P1920_000143",
+      "record_id": 755,
+      "sex": "F",
+      "race": "B",
+      "age": "48",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 331,
+      "person_id": "P1920_000144",
+      "record_id": 756,
+      "sex": "M",
+      "race": "B",
+      "age": "25",
+      "place_birth": "DC"
+    },
+    {
+      "attribute_id": 332,
+      "person_id": "P1920_000145",
+      "record_id": 757,
+      "sex": "M",
+      "race": "B",
+      "age": "24",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 333,
+      "person_id": "P1920_000146",
+      "record_id": 758,
+      "sex": "F",
+      "race": "B",
+      "age": "15",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 334,
+      "person_id": "P1920_000147",
+      "record_id": 759,
+      "sex": "M",
+      "race": "B",
+      "age": "22",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 335,
+      "person_id": "P1920_000148",
+      "record_id": 760,
+      "sex": "M",
+      "race": "B",
+      "age": "21",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 336,
+      "person_id": "P1920_000149",
+      "record_id": 761,
+      "sex": "F",
+      "race": "B",
+      "age": "28",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 337,
+      "person_id": "P1920_00015",
+      "record_id": 762,
+      "sex": "M",
+      "race": "B",
+      "age": "30",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 338,
+      "person_id": "P1920_000151",
+      "record_id": 763,
+      "sex": "M",
+      "race": "B",
+      "age": "31",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 339,
+      "person_id": "P1920_000152",
+      "record_id": 764,
+      "sex": "M",
+      "race": "B",
+      "age": "17",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 340,
+      "person_id": "P1920_000153",
+      "record_id": 765,
+      "sex": "M",
+      "race": "B",
+      "age": "70",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 341,
+      "person_id": "P1920_000154",
+      "record_id": 766,
+      "sex": "F",
+      "race": "B",
+      "age": "64",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 342,
+      "person_id": "P1920_000155",
+      "record_id": 767,
+      "sex": "M",
+      "race": "B",
+      "age": "28",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 343,
+      "person_id": "P1920_000156",
+      "record_id": 768,
+      "sex": "M",
+      "race": "B",
+      "age": "4",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 344,
+      "person_id": "P1920_000157",
+      "record_id": 769,
+      "sex": "F",
+      "race": "B",
+      "age": "0",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 345,
+      "person_id": "P1920_000158",
+      "record_id": 770,
+      "sex": "M",
+      "race": "B",
+      "age": "39",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 346,
+      "person_id": "P1920_000159",
+      "record_id": 771,
+      "sex": "F",
+      "race": "B",
+      "age": "38",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 347,
+      "person_id": "P1920_00016",
+      "record_id": 772,
+      "sex": "F",
+      "race": "B",
+      "age": "17",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 348,
+      "person_id": "P1920_000161",
+      "record_id": 773,
+      "sex": "F",
+      "race": "B",
+      "age": "11",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 349,
+      "person_id": "P1920_000162",
+      "record_id": 774,
+      "sex": "F",
+      "race": "B",
+      "age": "9",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 350,
+      "person_id": "P1920_000163",
+      "record_id": 775,
+      "sex": "M",
+      "race": "B",
+      "age": "7",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 351,
+      "person_id": "P1920_000164",
+      "record_id": 776,
+      "sex": "F",
+      "race": "B",
+      "age": "6",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 352,
+      "person_id": "P1920_000165",
+      "record_id": 777,
+      "sex": "M",
+      "race": "B",
+      "age": "0",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 353,
+      "person_id": "P1920_000166",
+      "record_id": 778,
+      "sex": "M",
+      "race": "B",
+      "age": "45",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 354,
+      "person_id": "P1920_000167",
+      "record_id": 779,
+      "sex": "F",
+      "race": "B",
+      "age": "45",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 355,
+      "person_id": "P1920_000168",
+      "record_id": 780,
+      "sex": "M",
+      "race": "B",
+      "age": "23",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 356,
+      "person_id": "P1920_000169",
+      "record_id": 781,
+      "sex": "F",
+      "race": "B",
+      "age": "9",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 357,
+      "person_id": "P1920_00017",
+      "record_id": 782,
+      "sex": "M",
+      "race": "B",
+      "age": "47",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 358,
+      "person_id": "P1920_000171",
+      "record_id": 783,
+      "sex": "F",
+      "race": "B",
+      "age": "37",
+      "place_birth": "DC"
+    },
+    {
+      "attribute_id": 359,
+      "person_id": "P1920_000172",
+      "record_id": 784,
+      "sex": "F",
+      "race": "B",
+      "age": "14",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 360,
+      "person_id": "P1920_000173",
+      "record_id": 785,
+      "sex": "F",
+      "race": "B",
+      "age": "12",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 361,
+      "person_id": "P1920_000174",
+      "record_id": 786,
+      "sex": "F",
+      "race": "B",
+      "age": "8",
+      "place_birth": "DC"
+    },
+    {
+      "attribute_id": 362,
+      "person_id": "P1920_000175",
+      "record_id": 787,
+      "sex": "M",
+      "race": "B",
+      "age": "7",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 363,
+      "person_id": "P1920_000176",
+      "record_id": 788,
+      "sex": "M",
+      "race": "B",
+      "age": "73",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 364,
+      "person_id": "P1920_000177",
+      "record_id": 789,
+      "sex": "F",
+      "race": "B",
+      "age": "33",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 365,
+      "person_id": "P1920_000178",
+      "record_id": 790,
+      "sex": "M",
+      "race": "B",
+      "age": "14",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 366,
+      "person_id": "P1920_000179",
+      "record_id": 791,
+      "sex": "M",
+      "race": "B",
+      "age": "12",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 367,
+      "person_id": "P1920_00018",
+      "record_id": 792,
+      "sex": "M",
+      "race": "B",
+      "age": "7",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 368,
+      "person_id": "P1920_000181",
+      "record_id": 793,
+      "sex": "F",
+      "race": "B",
+      "age": "5",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 369,
+      "person_id": "P1920_000182",
+      "record_id": 794,
+      "sex": "F",
+      "race": "B",
+      "age": "39",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 370,
+      "person_id": "P1920_000183",
+      "record_id": 795,
+      "sex": "M",
+      "race": "B",
+      "age": "11",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 371,
+      "person_id": "P1920_000184",
+      "record_id": 796,
+      "sex": "M",
+      "race": "B",
+      "age": "34",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 372,
+      "person_id": "P1920_000185",
+      "record_id": 797,
+      "sex": "M",
+      "race": "B",
+      "age": "46",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 373,
+      "person_id": "P1930_",
+      "record_id": 748,
+      "sex": "F",
+      "race": "N",
+      "age": "51",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 374,
+      "person_id": "P1930_000001",
+      "record_id": 749,
+      "sex": "F",
+      "race": "N",
+      "age": "29",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 375,
+      "person_id": "P1930_000002",
+      "record_id": 750,
+      "sex": "F",
+      "race": "N",
+      "age": "27",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 376,
+      "person_id": "P1930_000003",
+      "record_id": 751,
+      "sex": "M",
+      "race": "N",
+      "age": "43",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 377,
+      "person_id": "P1930_000004",
+      "record_id": 752,
+      "sex": "F",
+      "race": "N",
+      "age": "38",
+      "place_birth": "Virginia"
+    },
+    {
+      "attribute_id": 378,
+      "person_id": "P1930_000005",
+      "record_id": 753,
+      "sex": "M",
+      "race": "N",
+      "age": "17",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 379,
+      "person_id": "P1930_000006",
+      "record_id": 754,
+      "sex": "F",
+      "race": "N",
+      "age": "12",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 380,
+      "person_id": "P1930_000007",
+      "record_id": 755,
+      "sex": "M",
+      "race": "N",
+      "age": "9",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 381,
+      "person_id": "P1930_000008",
+      "record_id": 756,
+      "sex": "F",
+      "race": "N",
+      "age": "7",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 382,
+      "person_id": "P1930_000009",
+      "record_id": 757,
+      "sex": "M",
+      "race": "N",
+      "age": "3",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 383,
+      "person_id": "P1930_00001",
+      "record_id": 758,
+      "sex": "M",
+      "race": "N",
+      "age": "3",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 384,
+      "person_id": "P1930_000011",
+      "record_id": 759,
+      "sex": "M",
+      "race": "N",
+      "age": "0",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 385,
+      "person_id": "P1930_000012",
+      "record_id": 760,
+      "sex": "M",
+      "race": "N",
+      "age": "62",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 386,
+      "person_id": "P1930_000013",
+      "record_id": 761,
+      "sex": "F",
+      "race": "N",
+      "age": "53",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 387,
+      "person_id": "P1930_000014",
+      "record_id": 762,
+      "sex": "F",
+      "race": "N",
+      "age": "19",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 388,
+      "person_id": "P1930_000015",
+      "record_id": 763,
+      "sex": "M",
+      "race": "N",
+      "age": "16",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 389,
+      "person_id": "P1930_000016",
+      "record_id": 764,
+      "sex": "F",
+      "race": "N",
+      "age": "14",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 390,
+      "person_id": "P1930_000017",
+      "record_id": 765,
+      "sex": "M",
+      "race": "N",
+      "age": "41",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 391,
+      "person_id": "P1930_000018",
+      "record_id": 766,
+      "sex": "F",
+      "race": "N",
+      "age": "38",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 392,
+      "person_id": "P1930_000019",
+      "record_id": 767,
+      "sex": "M",
+      "race": "N",
+      "age": "27",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 393,
+      "person_id": "P1930_00002",
+      "record_id": 768,
+      "sex": "M",
+      "race": "N",
+      "age": "23",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 394,
+      "person_id": "P1930_000021",
+      "record_id": 769,
+      "sex": "F",
+      "race": "N",
+      "age": "9",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 395,
+      "person_id": "P1930_000022",
+      "record_id": 770,
+      "sex": "F",
+      "race": "N",
+      "age": "7",
+      "place_birth": "District of Columbia"
+    },
+    {
+      "attribute_id": 396,
+      "person_id": "P1930_000023",
+      "record_id": 771,
+      "sex": "M",
+      "race": "N",
+      "age": "64",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 397,
+      "person_id": "P1930_000024",
+      "record_id": 772,
+      "sex": "F",
+      "race": "N",
+      "age": "29",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 398,
+      "person_id": "P1930_000025",
+      "record_id": 773,
+      "sex": "M",
+      "race": "N",
+      "age": "26",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 399,
+      "person_id": "P1930_000026",
+      "record_id": 774,
+      "sex": "F",
+      "race": "N",
+      "age": "23",
+      "place_birth": "Maryland"
+    },
+    {
+      "attribute_id": 400,
+      "person_id": "P1930_000027",
+      "record_id": 775,
+      "sex": "M",
+      "race": "N",
+      "age": "19",
+      "place_birth": "Maryland"
+    }
+  ]
+}

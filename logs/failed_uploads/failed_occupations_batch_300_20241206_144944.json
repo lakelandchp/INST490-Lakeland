@@ -1,0 +1,708 @@
+{
+  "table": "occupations",
+  "batch_start": 300,
+  "error": "{'code': '23505', 'details': 'Key (occupation_id)=(301) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"occupations_pkey\"'}",
+  "timestamp": "2024-12-06 14:49:44",
+  "data": [
+    {
+      "occupation_id": 301,
+      "person_id": "P1920_000114",
+      "record_id": 726,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 302,
+      "person_id": "P1920_000115",
+      "record_id": 727,
+      "work": "laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 303,
+      "person_id": "P1920_000116",
+      "record_id": 728,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 304,
+      "person_id": "P1920_000117",
+      "record_id": 729,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 305,
+      "person_id": "P1920_000118",
+      "record_id": 730,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 306,
+      "person_id": "P1920_000119",
+      "record_id": 731,
+      "work": "Servant",
+      "business": "Private Home"
+    },
+    {
+      "occupation_id": 307,
+      "person_id": "P1920_00012",
+      "record_id": 732,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 308,
+      "person_id": "P1920_000121",
+      "record_id": 733,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 309,
+      "person_id": "P1920_000122",
+      "record_id": 734,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 310,
+      "person_id": "P1920_000123",
+      "record_id": 735,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 311,
+      "person_id": "P1920_000124",
+      "record_id": 736,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 312,
+      "person_id": "P1920_000125",
+      "record_id": 737,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 313,
+      "person_id": "P1920_000126",
+      "record_id": 738,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 314,
+      "person_id": "P1920_000127",
+      "record_id": 739,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 315,
+      "person_id": "P1920_000128",
+      "record_id": 740,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 316,
+      "person_id": "P1920_000129",
+      "record_id": 741,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 317,
+      "person_id": "P1920_00013",
+      "record_id": 742,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 318,
+      "person_id": "P1920_000131",
+      "record_id": 743,
+      "work": "Laborer",
+      "business": "Saw Mill"
+    },
+    {
+      "occupation_id": 319,
+      "person_id": "P1920_000132",
+      "record_id": 744,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 320,
+      "person_id": "P1920_000133",
+      "record_id": 745,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 321,
+      "person_id": "P1920_000134",
+      "record_id": 746,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 322,
+      "person_id": "P1920_000135",
+      "record_id": 747,
+      "work": "Waiter",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 323,
+      "person_id": "P1920_000136",
+      "record_id": 748,
+      "work": "Janitor",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 324,
+      "person_id": "P1920_000137",
+      "record_id": 749,
+      "work": "Laborer",
+      "business": "Saw Mill"
+    },
+    {
+      "occupation_id": 325,
+      "person_id": "P1920_000138",
+      "record_id": 750,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 326,
+      "person_id": "P1920_000139",
+      "record_id": 751,
+      "work": "Laborer",
+      "business": "Saw Mill"
+    },
+    {
+      "occupation_id": 327,
+      "person_id": "P1920_00014",
+      "record_id": 752,
+      "work": "Laborer",
+      "business": "Saw Mill"
+    },
+    {
+      "occupation_id": 328,
+      "person_id": "P1920_000141",
+      "record_id": 753,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 329,
+      "person_id": "P1920_000142",
+      "record_id": 754,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 330,
+      "person_id": "P1920_000143",
+      "record_id": 755,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 331,
+      "person_id": "P1920_000144",
+      "record_id": 756,
+      "work": "Laborer",
+      "business": "St Road"
+    },
+    {
+      "occupation_id": 332,
+      "person_id": "P1920_000145",
+      "record_id": 757,
+      "work": "Laborer",
+      "business": "St Road"
+    },
+    {
+      "occupation_id": 333,
+      "person_id": "P1920_000146",
+      "record_id": 758,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 334,
+      "person_id": "P1920_000147",
+      "record_id": 759,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 335,
+      "person_id": "P1920_000148",
+      "record_id": 760,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 336,
+      "person_id": "P1920_000149",
+      "record_id": 761,
+      "work": "Washing",
+      "business": "At home"
+    },
+    {
+      "occupation_id": 337,
+      "person_id": "P1920_00015",
+      "record_id": 762,
+      "work": "Waiter",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 338,
+      "person_id": "P1920_000151",
+      "record_id": 763,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 339,
+      "person_id": "P1920_000152",
+      "record_id": 764,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 340,
+      "person_id": "P1920_000153",
+      "record_id": 765,
+      "work": "Janitor",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 341,
+      "person_id": "P1920_000154",
+      "record_id": 766,
+      "work": "wash & iron",
+      "business": "At Home"
+    },
+    {
+      "occupation_id": 342,
+      "person_id": "P1920_000155",
+      "record_id": 767,
+      "work": "Forestry nursery",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 343,
+      "person_id": "P1920_000156",
+      "record_id": 768,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 344,
+      "person_id": "P1920_000157",
+      "record_id": 769,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 345,
+      "person_id": "P1920_000158",
+      "record_id": 770,
+      "work": "Driver",
+      "business": "Wagan"
+    },
+    {
+      "occupation_id": 346,
+      "person_id": "P1920_000159",
+      "record_id": 771,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 347,
+      "person_id": "P1920_00016",
+      "record_id": 772,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 348,
+      "person_id": "P1920_000161",
+      "record_id": 773,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 349,
+      "person_id": "P1920_000162",
+      "record_id": 774,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 350,
+      "person_id": "P1920_000163",
+      "record_id": 775,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 351,
+      "person_id": "P1920_000164",
+      "record_id": 776,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 352,
+      "person_id": "P1920_000165",
+      "record_id": 777,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 353,
+      "person_id": "P1920_000166",
+      "record_id": 778,
+      "work": "Waiter",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 354,
+      "person_id": "P1920_000167",
+      "record_id": 779,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 355,
+      "person_id": "P1920_000168",
+      "record_id": 780,
+      "work": "Laborer",
+      "business": "St Rd"
+    },
+    {
+      "occupation_id": 356,
+      "person_id": "P1920_000169",
+      "record_id": 781,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 357,
+      "person_id": "P1920_00017",
+      "record_id": 782,
+      "work": "Baker",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 358,
+      "person_id": "P1920_000171",
+      "record_id": 783,
+      "work": "Maid",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 359,
+      "person_id": "P1920_000172",
+      "record_id": 784,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 360,
+      "person_id": "P1920_000173",
+      "record_id": 785,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 361,
+      "person_id": "P1920_000174",
+      "record_id": 786,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 362,
+      "person_id": "P1920_000175",
+      "record_id": 787,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 363,
+      "person_id": "P1920_000176",
+      "record_id": 788,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 364,
+      "person_id": "P1920_000177",
+      "record_id": 789,
+      "work": "Maid",
+      "business": "Md St Col"
+    },
+    {
+      "occupation_id": 365,
+      "person_id": "P1920_000178",
+      "record_id": 790,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 366,
+      "person_id": "P1920_000179",
+      "record_id": 791,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 367,
+      "person_id": "P1920_00018",
+      "record_id": 792,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 368,
+      "person_id": "P1920_000181",
+      "record_id": 793,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 369,
+      "person_id": "P1920_000182",
+      "record_id": 794,
+      "work": "Laundry",
+      "business": "At Home"
+    },
+    {
+      "occupation_id": 370,
+      "person_id": "P1920_000183",
+      "record_id": 795,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 371,
+      "person_id": "P1920_000184",
+      "record_id": 796,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 372,
+      "person_id": "P1920_000185",
+      "record_id": 797,
+      "work": "Laborer",
+      "business": "RR Rd"
+    },
+    {
+      "occupation_id": 373,
+      "person_id": "P1930_",
+      "record_id": 748,
+      "work": "Laundress",
+      "business": "At Home"
+    },
+    {
+      "occupation_id": 374,
+      "person_id": "P1930_000001",
+      "record_id": 749,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 375,
+      "person_id": "P1930_000002",
+      "record_id": 750,
+      "work": "Laundress",
+      "business": "At Home"
+    },
+    {
+      "occupation_id": 376,
+      "person_id": "P1930_000003",
+      "record_id": 751,
+      "work": "Truck Driver",
+      "business": "Retail Ice and Coal"
+    },
+    {
+      "occupation_id": 377,
+      "person_id": "P1930_000004",
+      "record_id": 752,
+      "work": "Servant",
+      "business": "General Housework"
+    },
+    {
+      "occupation_id": 378,
+      "person_id": "P1930_000005",
+      "record_id": 753,
+      "work": "Dish washer",
+      "business": "Restaurant"
+    },
+    {
+      "occupation_id": 379,
+      "person_id": "P1930_000006",
+      "record_id": 754,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 380,
+      "person_id": "P1930_000007",
+      "record_id": 755,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 381,
+      "person_id": "P1930_000008",
+      "record_id": 756,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 382,
+      "person_id": "P1930_000009",
+      "record_id": 757,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 383,
+      "person_id": "P1930_00001",
+      "record_id": 758,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 384,
+      "person_id": "P1930_000011",
+      "record_id": 759,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 385,
+      "person_id": "P1930_000012",
+      "record_id": 760,
+      "work": "Trackman",
+      "business": "Steam Railway"
+    },
+    {
+      "occupation_id": 386,
+      "person_id": "P1930_000013",
+      "record_id": 761,
+      "work": "Laundress",
+      "business": "University"
+    },
+    {
+      "occupation_id": 387,
+      "person_id": "P1930_000014",
+      "record_id": 762,
+      "work": "Laundress",
+      "business": "University"
+    },
+    {
+      "occupation_id": 388,
+      "person_id": "P1930_000015",
+      "record_id": 763,
+      "work": "Attendant",
+      "business": "Bowling Alley"
+    },
+    {
+      "occupation_id": 389,
+      "person_id": "P1930_000016",
+      "record_id": 764,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 390,
+      "person_id": "P1930_000017",
+      "record_id": 765,
+      "work": "Janitor",
+      "business": "University"
+    },
+    {
+      "occupation_id": 391,
+      "person_id": "P1930_000018",
+      "record_id": 766,
+      "work": "Children's Nurse",
+      "business": "Private Family"
+    },
+    {
+      "occupation_id": 392,
+      "person_id": "P1930_000019",
+      "record_id": 767,
+      "work": "Dishwasher",
+      "business": "University"
+    },
+    {
+      "occupation_id": 393,
+      "person_id": "P1930_00002",
+      "record_id": 768,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 394,
+      "person_id": "P1930_000021",
+      "record_id": 769,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 395,
+      "person_id": "P1930_000022",
+      "record_id": 770,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 396,
+      "person_id": "P1930_000023",
+      "record_id": 771,
+      "work": "Painter and Paperhanger",
+      "business": "Independent"
+    },
+    {
+      "occupation_id": 397,
+      "person_id": "P1930_000024",
+      "record_id": 772,
+      "work": "Cook",
+      "business": "Club House"
+    },
+    {
+      "occupation_id": 398,
+      "person_id": "P1930_000025",
+      "record_id": 773,
+      "work": "Auto Mechanic",
+      "business": "Garage"
+    },
+    {
+      "occupation_id": 399,
+      "person_id": "P1930_000026",
+      "record_id": 774,
+      "work": null,
+      "business": null
+    },
+    {
+      "occupation_id": 400,
+      "person_id": "P1930_000027",
+      "record_id": 775,
+      "work": null,
+      "business": null
+    }
+  ]
+}

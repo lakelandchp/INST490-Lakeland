@@ -1,0 +1,708 @@
+{
+  "table": "relationships",
+  "batch_start": 200,
+  "error": "{'code': '23505', 'details': 'Key (relationship_id)=(201) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"relationships_pkey\"'}",
+  "timestamp": "2024-12-06 15:01:25",
+  "data": [
+    {
+      "relationship_id": 201,
+      "person_id": "P1920_000014",
+      "family_id": "F1920_",
+      "record_id": 626,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 202,
+      "person_id": "P1920_000015",
+      "family_id": "F1920_",
+      "record_id": 627,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 203,
+      "person_id": "P1920_000016",
+      "family_id": "F1920_",
+      "record_id": 628,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 204,
+      "person_id": "P1920_000017",
+      "family_id": "F1920_",
+      "record_id": 629,
+      "relation_to_head": "Border"
+    },
+    {
+      "relationship_id": 205,
+      "person_id": "P1920_000018",
+      "family_id": "F1920_",
+      "record_id": 630,
+      "relation_to_head": "Son In Law"
+    },
+    {
+      "relationship_id": 206,
+      "person_id": "P1920_000019",
+      "family_id": "F1920_",
+      "record_id": 631,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 207,
+      "person_id": "P1920_00002",
+      "family_id": "F1920_",
+      "record_id": 632,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 208,
+      "person_id": "P1920_000021",
+      "family_id": "F1920_",
+      "record_id": 633,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 209,
+      "person_id": "P1920_000022",
+      "family_id": "F1920_",
+      "record_id": 634,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 210,
+      "person_id": "P1920_000023",
+      "family_id": "F1920_",
+      "record_id": 635,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 211,
+      "person_id": "P1920_000024",
+      "family_id": "F1920_",
+      "record_id": 636,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 212,
+      "person_id": "P1920_000025",
+      "family_id": "F1920_",
+      "record_id": 637,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 213,
+      "person_id": "P1920_000026",
+      "family_id": "F1920_",
+      "record_id": 638,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 214,
+      "person_id": "P1920_000027",
+      "family_id": "F1920_",
+      "record_id": 639,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 215,
+      "person_id": "P1920_000028",
+      "family_id": "F1920_",
+      "record_id": 640,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 216,
+      "person_id": "P1920_000029",
+      "family_id": "F1920_",
+      "record_id": 641,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 217,
+      "person_id": "P1920_00003",
+      "family_id": "F1920_",
+      "record_id": 642,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 218,
+      "person_id": "P1920_000031",
+      "family_id": "F1920_",
+      "record_id": 643,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 219,
+      "person_id": "P1920_000032",
+      "family_id": "F1920_",
+      "record_id": 644,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 220,
+      "person_id": "P1920_000033",
+      "family_id": "F1920_",
+      "record_id": 645,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 221,
+      "person_id": "P1920_000034",
+      "family_id": "F1920_",
+      "record_id": 646,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 222,
+      "person_id": "P1920_000035",
+      "family_id": "F1920_",
+      "record_id": 647,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 223,
+      "person_id": "P1920_000036",
+      "family_id": "F1920_",
+      "record_id": 648,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 224,
+      "person_id": "P1920_000037",
+      "family_id": "F1920_",
+      "record_id": 649,
+      "relation_to_head": "Son In Law"
+    },
+    {
+      "relationship_id": 225,
+      "person_id": "P1920_000038",
+      "family_id": "F1920_",
+      "record_id": 650,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 226,
+      "person_id": "P1920_000039",
+      "family_id": "F1920_",
+      "record_id": 651,
+      "relation_to_head": "Grandson"
+    },
+    {
+      "relationship_id": 227,
+      "person_id": "P1920_00004",
+      "family_id": "F1920_",
+      "record_id": 652,
+      "relation_to_head": "Grandson"
+    },
+    {
+      "relationship_id": 228,
+      "person_id": "P1920_000041",
+      "family_id": "F1920_",
+      "record_id": 653,
+      "relation_to_head": "Son In Law"
+    },
+    {
+      "relationship_id": 229,
+      "person_id": "P1920_000042",
+      "family_id": "F1920_",
+      "record_id": 654,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 230,
+      "person_id": "P1920_000043",
+      "family_id": "F1920_",
+      "record_id": 655,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 231,
+      "person_id": "P1920_000044",
+      "family_id": "F1920_",
+      "record_id": 656,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 232,
+      "person_id": "P1920_000045",
+      "family_id": "F1920_",
+      "record_id": 657,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 233,
+      "person_id": "P1920_000046",
+      "family_id": "F1920_",
+      "record_id": 658,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 234,
+      "person_id": "P1920_000047",
+      "family_id": "F1920_",
+      "record_id": 659,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 235,
+      "person_id": "P1920_000048",
+      "family_id": "F1920_",
+      "record_id": 660,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 236,
+      "person_id": "P1920_000049",
+      "family_id": "F1920_",
+      "record_id": 661,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 237,
+      "person_id": "P1920_00005",
+      "family_id": "F1920_",
+      "record_id": 662,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 238,
+      "person_id": "P1920_000051",
+      "family_id": "F1920_",
+      "record_id": 663,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 239,
+      "person_id": "P1920_000052",
+      "family_id": "F1920_",
+      "record_id": 664,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 240,
+      "person_id": "P1920_000053",
+      "family_id": "F1920_",
+      "record_id": 665,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 241,
+      "person_id": "P1920_000054",
+      "family_id": "F1920_",
+      "record_id": 666,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 242,
+      "person_id": "P1920_000055",
+      "family_id": "F1920_",
+      "record_id": 667,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 243,
+      "person_id": "P1920_000056",
+      "family_id": "F1920_",
+      "record_id": 668,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 244,
+      "person_id": "P1920_000057",
+      "family_id": "F1920_",
+      "record_id": 669,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 245,
+      "person_id": "P1920_000058",
+      "family_id": "F1920_",
+      "record_id": 670,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 246,
+      "person_id": "P1920_000059",
+      "family_id": "F1920_",
+      "record_id": 671,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 247,
+      "person_id": "P1920_00006",
+      "family_id": "F1920_",
+      "record_id": 672,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 248,
+      "person_id": "P1920_000061",
+      "family_id": "F1920_",
+      "record_id": 673,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 249,
+      "person_id": "P1920_000062",
+      "family_id": "F1920_",
+      "record_id": 674,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 250,
+      "person_id": "P1920_000063",
+      "family_id": "F1920_",
+      "record_id": 675,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 251,
+      "person_id": "P1920_000064",
+      "family_id": "F1920_",
+      "record_id": 676,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 252,
+      "person_id": "P1920_000065",
+      "family_id": "F1920_",
+      "record_id": 677,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 253,
+      "person_id": "P1920_000066",
+      "family_id": "F1920_",
+      "record_id": 678,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 254,
+      "person_id": "P1920_000067",
+      "family_id": "F1920_",
+      "record_id": 679,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 255,
+      "person_id": "P1920_000068",
+      "family_id": "F1920_",
+      "record_id": 680,
+      "relation_to_head": "Ad Daughter"
+    },
+    {
+      "relationship_id": 256,
+      "person_id": "P1920_000069",
+      "family_id": "F1920_",
+      "record_id": 681,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 257,
+      "person_id": "P1920_00007",
+      "family_id": "F1920_",
+      "record_id": 682,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 258,
+      "person_id": "P1920_000071",
+      "family_id": "F1920_",
+      "record_id": 683,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 259,
+      "person_id": "P1920_000072",
+      "family_id": "F1920_",
+      "record_id": 684,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 260,
+      "person_id": "P1920_000073",
+      "family_id": "F1920_",
+      "record_id": 685,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 261,
+      "person_id": "P1920_000074",
+      "family_id": "F1920_",
+      "record_id": 686,
+      "relation_to_head": "Som"
+    },
+    {
+      "relationship_id": 262,
+      "person_id": "P1920_000075",
+      "family_id": "F1920_",
+      "record_id": 687,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 263,
+      "person_id": "P1920_000076",
+      "family_id": "F1920_",
+      "record_id": 688,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 264,
+      "person_id": "P1920_000077",
+      "family_id": "F1920_",
+      "record_id": 689,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 265,
+      "person_id": "P1920_000078",
+      "family_id": "F1920_",
+      "record_id": 690,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 266,
+      "person_id": "P1920_000079",
+      "family_id": "F1920_",
+      "record_id": 691,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 267,
+      "person_id": "P1920_00008",
+      "family_id": "F1920_",
+      "record_id": 692,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 268,
+      "person_id": "P1920_000081",
+      "family_id": "F1920_",
+      "record_id": 693,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 269,
+      "person_id": "P1920_000082",
+      "family_id": "F1920_",
+      "record_id": 694,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 270,
+      "person_id": "P1920_000083",
+      "family_id": "F1920_",
+      "record_id": 695,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 271,
+      "person_id": "P1920_000084",
+      "family_id": "F1920_",
+      "record_id": 696,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 272,
+      "person_id": "P1920_000085",
+      "family_id": "F1920_",
+      "record_id": 697,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 273,
+      "person_id": "P1920_000086",
+      "family_id": "F1920_",
+      "record_id": 698,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 274,
+      "person_id": "P1920_000087",
+      "family_id": "F1920_",
+      "record_id": 699,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 275,
+      "person_id": "P1920_000088",
+      "family_id": "F1920_",
+      "record_id": 700,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 276,
+      "person_id": "P1920_000089",
+      "family_id": "F1920_",
+      "record_id": 701,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 277,
+      "person_id": "P1920_00009",
+      "family_id": "F1920_",
+      "record_id": 702,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 278,
+      "person_id": "P1920_000091",
+      "family_id": "F1920_",
+      "record_id": 703,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 279,
+      "person_id": "P1920_000092",
+      "family_id": "F1920_",
+      "record_id": 704,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 280,
+      "person_id": "P1920_000093",
+      "family_id": "F1920_",
+      "record_id": 705,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 281,
+      "person_id": "P1920_000094",
+      "family_id": "F1920_",
+      "record_id": 706,
+      "relation_to_head": "Brother"
+    },
+    {
+      "relationship_id": 282,
+      "person_id": "P1920_000095",
+      "family_id": "F1920_",
+      "record_id": 707,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 283,
+      "person_id": "P1920_000096",
+      "family_id": "F1920_",
+      "record_id": 708,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 284,
+      "person_id": "P1920_000097",
+      "family_id": "F1920_",
+      "record_id": 709,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 285,
+      "person_id": "P1920_000098",
+      "family_id": "F1920_",
+      "record_id": 710,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 286,
+      "person_id": "P1920_000099",
+      "family_id": "F1920_",
+      "record_id": 711,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 287,
+      "person_id": "P1920_0001",
+      "family_id": "F1920_",
+      "record_id": 712,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 288,
+      "person_id": "P1920_000101",
+      "family_id": "F1920_",
+      "record_id": 713,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 289,
+      "person_id": "P1920_000102",
+      "family_id": "F1920_",
+      "record_id": 714,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 290,
+      "person_id": "P1920_000103",
+      "family_id": "F1920_",
+      "record_id": 715,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 291,
+      "person_id": "P1920_000104",
+      "family_id": "F1920_",
+      "record_id": 716,
+      "relation_to_head": "Housekeeper"
+    },
+    {
+      "relationship_id": 292,
+      "person_id": "P1920_000105",
+      "family_id": "F1920_",
+      "record_id": 717,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 293,
+      "person_id": "P1920_000106",
+      "family_id": "F1920_",
+      "record_id": 718,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 294,
+      "person_id": "P1920_000107",
+      "family_id": "F1920_",
+      "record_id": 719,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 295,
+      "person_id": "P1920_000108",
+      "family_id": "F1920_",
+      "record_id": 720,
+      "relation_to_head": "Son"
+    },
+    {
+      "relationship_id": 296,
+      "person_id": "P1920_000109",
+      "family_id": "F1920_",
+      "record_id": 721,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 297,
+      "person_id": "P1920_00011",
+      "family_id": "F1920_",
+      "record_id": 722,
+      "relation_to_head": "Head"
+    },
+    {
+      "relationship_id": 298,
+      "person_id": "P1920_000111",
+      "family_id": "F1920_",
+      "record_id": 723,
+      "relation_to_head": "Wife"
+    },
+    {
+      "relationship_id": 299,
+      "person_id": "P1920_000112",
+      "family_id": "F1920_",
+      "record_id": 724,
+      "relation_to_head": "Daughter"
+    },
+    {
+      "relationship_id": 300,
+      "person_id": "P1920_000113",
+      "family_id": "F1920_",
+      "record_id": 725,
+      "relation_to_head": "Son"
+    }
+  ]
+}

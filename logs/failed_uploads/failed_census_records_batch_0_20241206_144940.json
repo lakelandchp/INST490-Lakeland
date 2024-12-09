@@ -1,0 +1,708 @@
+{
+  "table": "census_records",
+  "batch_start": 0,
+  "error": "{'code': '23505', 'details': 'Key (record_id)=(1) already exists.', 'hint': None, 'message': 'duplicate key value violates unique constraint \"census_records_pkey\"'}",
+  "timestamp": "2024-12-06 14:49:40",
+  "data": [
+    {
+      "record_id": 1,
+      "census_year": 1900,
+      "source_pk": 1,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 2,
+      "census_year": 1900,
+      "source_pk": 2,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 3,
+      "census_year": 1900,
+      "source_pk": 3,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 4,
+      "census_year": 1900,
+      "source_pk": 4,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 5,
+      "census_year": 1900,
+      "source_pk": 5,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 6,
+      "census_year": 1900,
+      "source_pk": 6,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 7,
+      "census_year": 1900,
+      "source_pk": 7,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 8,
+      "census_year": 1900,
+      "source_pk": 8,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 9,
+      "census_year": 1900,
+      "source_pk": 9,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 10,
+      "census_year": 1900,
+      "source_pk": 10,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 11,
+      "census_year": 1900,
+      "source_pk": 11,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 12,
+      "census_year": 1900,
+      "source_pk": 12,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 13,
+      "census_year": 1900,
+      "source_pk": 13,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 14,
+      "census_year": 1900,
+      "source_pk": 14,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 15,
+      "census_year": 1900,
+      "source_pk": 15,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 16,
+      "census_year": 1900,
+      "source_pk": 16,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 17,
+      "census_year": 1900,
+      "source_pk": 17,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 18,
+      "census_year": 1900,
+      "source_pk": 18,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 19,
+      "census_year": 1900,
+      "source_pk": 19,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 20,
+      "census_year": 1900,
+      "source_pk": 20,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 21,
+      "census_year": 1900,
+      "source_pk": 21,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 22,
+      "census_year": 1900,
+      "source_pk": 22,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 23,
+      "census_year": 1900,
+      "source_pk": 23,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 24,
+      "census_year": 1900,
+      "source_pk": 24,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 25,
+      "census_year": 1900,
+      "source_pk": 25,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 26,
+      "census_year": 1900,
+      "source_pk": 26,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 27,
+      "census_year": 1900,
+      "source_pk": 27,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 28,
+      "census_year": 1900,
+      "source_pk": 28,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 29,
+      "census_year": 1900,
+      "source_pk": 29,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 30,
+      "census_year": 1900,
+      "source_pk": 30,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 31,
+      "census_year": 1900,
+      "source_pk": 31,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 32,
+      "census_year": 1900,
+      "source_pk": 32,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 33,
+      "census_year": 1900,
+      "source_pk": 33,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 34,
+      "census_year": 1900,
+      "source_pk": 34,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 35,
+      "census_year": 1900,
+      "source_pk": 35,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 36,
+      "census_year": 1900,
+      "source_pk": 36,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 37,
+      "census_year": 1900,
+      "source_pk": 37,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 38,
+      "census_year": 1900,
+      "source_pk": 38,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 39,
+      "census_year": 1900,
+      "source_pk": 39,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 40,
+      "census_year": 1900,
+      "source_pk": 40,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 41,
+      "census_year": 1900,
+      "source_pk": 41,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 42,
+      "census_year": 1900,
+      "source_pk": 42,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 43,
+      "census_year": 1900,
+      "source_pk": 43,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 44,
+      "census_year": 1900,
+      "source_pk": 44,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 45,
+      "census_year": 1900,
+      "source_pk": 45,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 46,
+      "census_year": 1900,
+      "source_pk": 46,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 47,
+      "census_year": 1900,
+      "source_pk": 47,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 48,
+      "census_year": 1900,
+      "source_pk": 48,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 49,
+      "census_year": 1900,
+      "source_pk": 49,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 50,
+      "census_year": 1900,
+      "source_pk": 50,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 51,
+      "census_year": 1900,
+      "source_pk": 51,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 52,
+      "census_year": 1900,
+      "source_pk": 52,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 53,
+      "census_year": 1900,
+      "source_pk": 53,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 54,
+      "census_year": 1900,
+      "source_pk": 54,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 55,
+      "census_year": 1900,
+      "source_pk": 55,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 56,
+      "census_year": 1900,
+      "source_pk": 56,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 57,
+      "census_year": 1900,
+      "source_pk": 57,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 58,
+      "census_year": 1900,
+      "source_pk": 58,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 59,
+      "census_year": 1900,
+      "source_pk": 59,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 60,
+      "census_year": 1900,
+      "source_pk": 60,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 61,
+      "census_year": 1900,
+      "source_pk": 61,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 62,
+      "census_year": 1900,
+      "source_pk": 62,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 63,
+      "census_year": 1900,
+      "source_pk": 63,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 64,
+      "census_year": 1900,
+      "source_pk": 64,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 65,
+      "census_year": 1900,
+      "source_pk": 65,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 66,
+      "census_year": 1900,
+      "source_pk": 66,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 67,
+      "census_year": 1900,
+      "source_pk": 67,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 68,
+      "census_year": 1900,
+      "source_pk": 68,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 69,
+      "census_year": 1900,
+      "source_pk": 69,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 70,
+      "census_year": 1900,
+      "source_pk": 70,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 71,
+      "census_year": 1900,
+      "source_pk": 71,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 72,
+      "census_year": 1900,
+      "source_pk": 72,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 73,
+      "census_year": 1900,
+      "source_pk": 73,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 74,
+      "census_year": 1900,
+      "source_pk": 74,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 75,
+      "census_year": 1900,
+      "source_pk": 75,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 76,
+      "census_year": 1900,
+      "source_pk": 76,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 77,
+      "census_year": 1900,
+      "source_pk": 77,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 78,
+      "census_year": 1900,
+      "source_pk": 78,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 79,
+      "census_year": 1900,
+      "source_pk": 79,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 80,
+      "census_year": 1900,
+      "source_pk": 80,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 81,
+      "census_year": 1900,
+      "source_pk": 81,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 82,
+      "census_year": 1900,
+      "source_pk": 82,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 83,
+      "census_year": 1900,
+      "source_pk": 83,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 84,
+      "census_year": 1900,
+      "source_pk": 84,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 85,
+      "census_year": 1900,
+      "source_pk": 85,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 86,
+      "census_year": 1900,
+      "source_pk": 86,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 87,
+      "census_year": 1900,
+      "source_pk": 87,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 88,
+      "census_year": 1900,
+      "source_pk": 88,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 89,
+      "census_year": 1900,
+      "source_pk": 89,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 90,
+      "census_year": 1900,
+      "source_pk": 90,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 91,
+      "census_year": 1900,
+      "source_pk": 91,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 92,
+      "census_year": 1900,
+      "source_pk": 92,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 93,
+      "census_year": 1900,
+      "source_pk": 93,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 94,
+      "census_year": 1900,
+      "source_pk": 94,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 95,
+      "census_year": 1900,
+      "source_pk": 95,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 96,
+      "census_year": 1900,
+      "source_pk": 96,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 97,
+      "census_year": 1900,
+      "source_pk": 97,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 98,
+      "census_year": 1900,
+      "source_pk": 98,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 99,
+      "census_year": 1900,
+      "source_pk": 99,
+      "ed": null,
+      "page_number": null
+    },
+    {
+      "record_id": 100,
+      "census_year": 1900,
+      "source_pk": 100,
+      "ed": null,
+      "page_number": null
+    }
+  ]
+}

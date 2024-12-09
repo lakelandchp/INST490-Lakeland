@@ -1,0 +1,881 @@
+{
+  "table": "locations",
+  "batch_start": 700,
+  "error": "{}",
+  "timestamp": "2024-12-06 14:54:31",
+  "data": [
+    {
+      "location_id": 701,
+      "record_id": 701,
+      "street_name": "Lakeland Rd",
+      "house_num": "346",
+      "build_num": "49",
+      "dwelling_number": "218",
+      "family_number": "218"
+    },
+    {
+      "location_id": 702,
+      "record_id": 702,
+      "street_name": "Lakeland Rd",
+      "house_num": "346",
+      "build_num": "49",
+      "dwelling_number": "219",
+      "family_number": "219"
+    },
+    {
+      "location_id": 703,
+      "record_id": 703,
+      "street_name": "Lakeland Rd",
+      "house_num": "347",
+      "build_num": "4808",
+      "dwelling_number": "22",
+      "family_number": "22"
+    },
+    {
+      "location_id": 704,
+      "record_id": 704,
+      "street_name": "Lakeland Rd",
+      "house_num": "347",
+      "build_num": "4808",
+      "dwelling_number": "221",
+      "family_number": "221"
+    },
+    {
+      "location_id": 705,
+      "record_id": 705,
+      "street_name": "Lakeland Rd",
+      "house_num": "348",
+      "build_num": "4718",
+      "dwelling_number": "222",
+      "family_number": "222"
+    },
+    {
+      "location_id": 706,
+      "record_id": 706,
+      "street_name": "Lakeland Rd",
+      "house_num": "348",
+      "build_num": "4718",
+      "dwelling_number": "223",
+      "family_number": "223"
+    },
+    {
+      "location_id": 707,
+      "record_id": 707,
+      "street_name": "Lakeland Rd",
+      "house_num": "348",
+      "build_num": "4718",
+      "dwelling_number": "224",
+      "family_number": "224"
+    },
+    {
+      "location_id": 708,
+      "record_id": 708,
+      "street_name": "40th Avenue",
+      "house_num": "314",
+      "build_num": "8204",
+      "dwelling_number": "225",
+      "family_number": "225"
+    },
+    {
+      "location_id": 709,
+      "record_id": 709,
+      "street_name": "40th Ave",
+      "house_num": "314",
+      "build_num": "8204",
+      "dwelling_number": "226",
+      "family_number": "226"
+    },
+    {
+      "location_id": 710,
+      "record_id": 710,
+      "street_name": "40th Ave",
+      "house_num": "314",
+      "build_num": "8204",
+      "dwelling_number": "227",
+      "family_number": "227"
+    },
+    {
+      "location_id": 711,
+      "record_id": 711,
+      "street_name": "40th Ave",
+      "house_num": "314",
+      "build_num": "8204",
+      "dwelling_number": "228",
+      "family_number": "228"
+    },
+    {
+      "location_id": 712,
+      "record_id": 712,
+      "street_name": "40th Ave",
+      "house_num": "314",
+      "build_num": "8204",
+      "dwelling_number": "229",
+      "family_number": "229"
+    },
+    {
+      "location_id": 713,
+      "record_id": 713,
+      "street_name": "40th Ave",
+      "house_num": "314",
+      "build_num": "8204",
+      "dwelling_number": "23",
+      "family_number": "23"
+    },
+    {
+      "location_id": 714,
+      "record_id": 714,
+      "street_name": "40th Ave",
+      "house_num": "314",
+      "build_num": "8204",
+      "dwelling_number": "231",
+      "family_number": "231"
+    },
+    {
+      "location_id": 715,
+      "record_id": 715,
+      "street_name": "40th Ave",
+      "house_num": "314",
+      "build_num": "8204",
+      "dwelling_number": "232",
+      "family_number": "232"
+    },
+    {
+      "location_id": 716,
+      "record_id": 716,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "233",
+      "family_number": "233"
+    },
+    {
+      "location_id": 717,
+      "record_id": 717,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "234",
+      "family_number": "234"
+    },
+    {
+      "location_id": 718,
+      "record_id": 718,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "235",
+      "family_number": "235"
+    },
+    {
+      "location_id": 719,
+      "record_id": 719,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "236",
+      "family_number": "236"
+    },
+    {
+      "location_id": 720,
+      "record_id": 720,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "237",
+      "family_number": "237"
+    },
+    {
+      "location_id": 721,
+      "record_id": 721,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "238",
+      "family_number": "238"
+    },
+    {
+      "location_id": 722,
+      "record_id": 722,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "239",
+      "family_number": "239"
+    },
+    {
+      "location_id": 723,
+      "record_id": 723,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "24",
+      "family_number": "24"
+    },
+    {
+      "location_id": 724,
+      "record_id": 724,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "241",
+      "family_number": "241"
+    },
+    {
+      "location_id": 725,
+      "record_id": 725,
+      "street_name": "Navahoe St",
+      "house_num": "315",
+      "build_num": "4802",
+      "dwelling_number": "242",
+      "family_number": "242"
+    },
+    {
+      "location_id": 726,
+      "record_id": 726,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "243",
+      "family_number": "243"
+    },
+    {
+      "location_id": 727,
+      "record_id": 727,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "244",
+      "family_number": "244"
+    },
+    {
+      "location_id": 728,
+      "record_id": 728,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "245",
+      "family_number": "245"
+    },
+    {
+      "location_id": 729,
+      "record_id": 729,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "246",
+      "family_number": "246"
+    },
+    {
+      "location_id": 730,
+      "record_id": 730,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "247",
+      "family_number": "247"
+    },
+    {
+      "location_id": 731,
+      "record_id": 731,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "248",
+      "family_number": "248"
+    },
+    {
+      "location_id": 732,
+      "record_id": 732,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "249",
+      "family_number": "249"
+    },
+    {
+      "location_id": 733,
+      "record_id": 733,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "25",
+      "family_number": "25"
+    },
+    {
+      "location_id": 734,
+      "record_id": 734,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "251",
+      "family_number": "251"
+    },
+    {
+      "location_id": 735,
+      "record_id": 735,
+      "street_name": "Navahoe St",
+      "house_num": "316",
+      "build_num": "trailer",
+      "dwelling_number": "252",
+      "family_number": "252"
+    },
+    {
+      "location_id": 736,
+      "record_id": 736,
+      "street_name": "48th Ave",
+      "house_num": "317",
+      "build_num": "8303",
+      "dwelling_number": "253",
+      "family_number": "253"
+    },
+    {
+      "location_id": 737,
+      "record_id": 737,
+      "street_name": "48th Ave",
+      "house_num": "317",
+      "build_num": "8303",
+      "dwelling_number": "254",
+      "family_number": "254"
+    },
+    {
+      "location_id": 738,
+      "record_id": 738,
+      "street_name": "48th Ave",
+      "house_num": "317",
+      "build_num": "8303",
+      "dwelling_number": "255",
+      "family_number": "255"
+    },
+    {
+      "location_id": 739,
+      "record_id": 739,
+      "street_name": "48th Ave",
+      "house_num": "317",
+      "build_num": "8303",
+      "dwelling_number": "256",
+      "family_number": "256"
+    },
+    {
+      "location_id": 740,
+      "record_id": 740,
+      "street_name": "48th Ave",
+      "house_num": "317",
+      "build_num": "8303",
+      "dwelling_number": "257",
+      "family_number": "257"
+    },
+    {
+      "location_id": 741,
+      "record_id": 741,
+      "street_name": "48th Ave",
+      "house_num": "317",
+      "build_num": "8303",
+      "dwelling_number": "258",
+      "family_number": "258"
+    },
+    {
+      "location_id": 742,
+      "record_id": 742,
+      "street_name": "48th Ave",
+      "house_num": "317",
+      "build_num": "8303",
+      "dwelling_number": "259",
+      "family_number": "259"
+    },
+    {
+      "location_id": 743,
+      "record_id": 743,
+      "street_name": "Navahoe St",
+      "house_num": "318",
+      "build_num": "4011",
+      "dwelling_number": "26",
+      "family_number": "26"
+    },
+    {
+      "location_id": 744,
+      "record_id": 744,
+      "street_name": "Navahoe St",
+      "house_num": "318",
+      "build_num": "4011",
+      "dwelling_number": "261",
+      "family_number": "261"
+    },
+    {
+      "location_id": 745,
+      "record_id": 745,
+      "street_name": "Navahoe St",
+      "house_num": "318",
+      "build_num": "4011",
+      "dwelling_number": "262",
+      "family_number": "262"
+    },
+    {
+      "location_id": 746,
+      "record_id": 746,
+      "street_name": "Navahoe St",
+      "house_num": "318",
+      "build_num": "4011",
+      "dwelling_number": "263",
+      "family_number": "263"
+    },
+    {
+      "location_id": 747,
+      "record_id": 747,
+      "street_name": "Navahoe St",
+      "house_num": "318",
+      "build_num": "4011",
+      "dwelling_number": "264",
+      "family_number": "264"
+    },
+    {
+      "location_id": 748,
+      "record_id": 748,
+      "street_name": "Navahoe St",
+      "house_num": "318",
+      "build_num": "4011",
+      "dwelling_number": "265",
+      "family_number": "265"
+    },
+    {
+      "location_id": 749,
+      "record_id": 749,
+      "street_name": "Navahoe St",
+      "house_num": "318",
+      "build_num": "4011",
+      "dwelling_number": "266",
+      "family_number": "266"
+    },
+    {
+      "location_id": 750,
+      "record_id": 750,
+      "street_name": "Navahoe St",
+      "house_num": "318",
+      "build_num": "4011",
+      "dwelling_number": "267",
+      "family_number": "267"
+    },
+    {
+      "location_id": 751,
+      "record_id": 751,
+      "street_name": "Navahoe St",
+      "house_num": "319",
+      "build_num": "4819",
+      "dwelling_number": "268",
+      "family_number": "268"
+    },
+    {
+      "location_id": 752,
+      "record_id": 752,
+      "street_name": "Navahoe St",
+      "house_num": "319",
+      "build_num": "4819",
+      "dwelling_number": "269",
+      "family_number": "269"
+    },
+    {
+      "location_id": 753,
+      "record_id": 753,
+      "street_name": "Navahoe St",
+      "house_num": "319",
+      "build_num": "4819",
+      "dwelling_number": "27",
+      "family_number": "27"
+    },
+    {
+      "location_id": 754,
+      "record_id": 754,
+      "street_name": "Navahoe St",
+      "house_num": "319",
+      "build_num": "4819",
+      "dwelling_number": "271",
+      "family_number": "271"
+    },
+    {
+      "location_id": 755,
+      "record_id": 755,
+      "street_name": "Navahoe St",
+      "house_num": "319",
+      "build_num": "4819",
+      "dwelling_number": "272",
+      "family_number": "272"
+    },
+    {
+      "location_id": 756,
+      "record_id": 756,
+      "street_name": "Navahoe St",
+      "house_num": "319",
+      "build_num": "4819",
+      "dwelling_number": "273",
+      "family_number": "273"
+    },
+    {
+      "location_id": 757,
+      "record_id": 757,
+      "street_name": "Navahoe St",
+      "house_num": "319",
+      "build_num": "4819",
+      "dwelling_number": "274",
+      "family_number": "274"
+    },
+    {
+      "location_id": 758,
+      "record_id": 758,
+      "street_name": "Navahoe St",
+      "house_num": "319",
+      "build_num": "4819",
+      "dwelling_number": "275",
+      "family_number": "275"
+    },
+    {
+      "location_id": 759,
+      "record_id": 759,
+      "street_name": "Navahoe St",
+      "house_num": "32",
+      "build_num": "482",
+      "dwelling_number": "276",
+      "family_number": "276"
+    },
+    {
+      "location_id": 760,
+      "record_id": 760,
+      "street_name": "Navahoe St",
+      "house_num": "32",
+      "build_num": "482",
+      "dwelling_number": "277",
+      "family_number": "277"
+    },
+    {
+      "location_id": 761,
+      "record_id": 761,
+      "street_name": "Navahoe St",
+      "house_num": "32",
+      "build_num": "482",
+      "dwelling_number": "278",
+      "family_number": "278"
+    },
+    {
+      "location_id": 762,
+      "record_id": 762,
+      "street_name": "Navahoe St",
+      "house_num": "32",
+      "build_num": "482",
+      "dwelling_number": "279",
+      "family_number": "279"
+    },
+    {
+      "location_id": 763,
+      "record_id": 763,
+      "street_name": "Navahoe St",
+      "house_num": "32",
+      "build_num": "482",
+      "dwelling_number": "28",
+      "family_number": "28"
+    },
+    {
+      "location_id": 764,
+      "record_id": 764,
+      "street_name": "Pierce Ave",
+      "house_num": "141",
+      "build_num": "44",
+      "dwelling_number": "281",
+      "family_number": "281"
+    },
+    {
+      "location_id": 765,
+      "record_id": 765,
+      "street_name": "Pierce Ave",
+      "house_num": "141",
+      "build_num": "44",
+      "dwelling_number": "282",
+      "family_number": "282"
+    },
+    {
+      "location_id": 766,
+      "record_id": 766,
+      "street_name": "Pierce Ave",
+      "house_num": "142",
+      "build_num": "5102",
+      "dwelling_number": "283",
+      "family_number": "283"
+    },
+    {
+      "location_id": 767,
+      "record_id": 767,
+      "street_name": "Pierce Ave",
+      "house_num": "142",
+      "build_num": "5102",
+      "dwelling_number": "284",
+      "family_number": "284"
+    },
+    {
+      "location_id": 768,
+      "record_id": 768,
+      "street_name": "Pierce Ave",
+      "house_num": "142",
+      "build_num": "5102",
+      "dwelling_number": "285",
+      "family_number": "285"
+    },
+    {
+      "location_id": 769,
+      "record_id": 769,
+      "street_name": "Pierce Ave",
+      "house_num": "143",
+      "build_num": "51",
+      "dwelling_number": "286",
+      "family_number": "286"
+    },
+    {
+      "location_id": 770,
+      "record_id": 770,
+      "street_name": "Pierce Ave",
+      "house_num": "143",
+      "build_num": "51",
+      "dwelling_number": "287",
+      "family_number": "287"
+    },
+    {
+      "location_id": 771,
+      "record_id": 771,
+      "street_name": "Pierce Ave",
+      "house_num": "143",
+      "build_num": "51",
+      "dwelling_number": "288",
+      "family_number": "288"
+    },
+    {
+      "location_id": 772,
+      "record_id": 772,
+      "street_name": "Pierce Ave",
+      "house_num": "143",
+      "build_num": "51",
+      "dwelling_number": "289",
+      "family_number": "289"
+    },
+    {
+      "location_id": 773,
+      "record_id": 773,
+      "street_name": "Pierce Ave",
+      "house_num": "143",
+      "build_num": "51",
+      "dwelling_number": "29",
+      "family_number": "29"
+    },
+    {
+      "location_id": 774,
+      "record_id": 774,
+      "street_name": "Pierce Ave",
+      "house_num": "143",
+      "build_num": "51",
+      "dwelling_number": "291",
+      "family_number": "291"
+    },
+    {
+      "location_id": 775,
+      "record_id": 775,
+      "street_name": "Pierce Ave",
+      "house_num": "143",
+      "build_num": "51",
+      "dwelling_number": "292",
+      "family_number": "292"
+    },
+    {
+      "location_id": 776,
+      "record_id": 776,
+      "street_name": "Lakeland Rd",
+      "house_num": "146",
+      "build_num": "511",
+      "dwelling_number": "293",
+      "family_number": "293"
+    },
+    {
+      "location_id": 777,
+      "record_id": 777,
+      "street_name": "Lakeland Rd",
+      "house_num": "146",
+      "build_num": "511",
+      "dwelling_number": "294",
+      "family_number": "294"
+    },
+    {
+      "location_id": 778,
+      "record_id": 778,
+      "street_name": "Lakeland Rd",
+      "house_num": "146",
+      "build_num": "511",
+      "dwelling_number": "295",
+      "family_number": "295"
+    },
+    {
+      "location_id": 779,
+      "record_id": 779,
+      "street_name": "Cleveland Ave",
+      "house_num": "27",
+      "build_num": "5404",
+      "dwelling_number": "296",
+      "family_number": "296"
+    },
+    {
+      "location_id": 780,
+      "record_id": 780,
+      "street_name": "Cleveland Ave",
+      "house_num": "27",
+      "build_num": "5404",
+      "dwelling_number": "297",
+      "family_number": "297"
+    },
+    {
+      "location_id": 781,
+      "record_id": 781,
+      "street_name": "Cleveland Ave",
+      "house_num": "25",
+      "build_num": null,
+      "dwelling_number": "298",
+      "family_number": "298"
+    },
+    {
+      "location_id": 782,
+      "record_id": 782,
+      "street_name": "Cleveland Ave",
+      "house_num": "25",
+      "build_num": null,
+      "dwelling_number": "299",
+      "family_number": "299"
+    },
+    {
+      "location_id": 783,
+      "record_id": 783,
+      "street_name": "Cleveland Ave",
+      "house_num": "25",
+      "build_num": null,
+      "dwelling_number": "3",
+      "family_number": "3"
+    },
+    {
+      "location_id": 784,
+      "record_id": 784,
+      "street_name": "Cleveland Ave",
+      "house_num": "25",
+      "build_num": null,
+      "dwelling_number": "301",
+      "family_number": "301"
+    },
+    {
+      "location_id": 785,
+      "record_id": 785,
+      "street_name": "Cleveland Ave",
+      "house_num": "25",
+      "build_num": null,
+      "dwelling_number": "302",
+      "family_number": "302"
+    },
+    {
+      "location_id": 786,
+      "record_id": 786,
+      "street_name": "Cleveland Ave",
+      "house_num": "25",
+      "build_num": null,
+      "dwelling_number": "303",
+      "family_number": "303"
+    },
+    {
+      "location_id": 787,
+      "record_id": 787,
+      "street_name": "Cleveland Ave",
+      "house_num": "25",
+      "build_num": null,
+      "dwelling_number": "304",
+      "family_number": "304"
+    },
+    {
+      "location_id": 788,
+      "record_id": 788,
+      "street_name": "Albany Ave",
+      "house_num": "22",
+      "build_num": null,
+      "dwelling_number": "305",
+      "family_number": "305"
+    },
+    {
+      "location_id": 789,
+      "record_id": 789,
+      "street_name": "Albany Ave",
+      "house_num": "22",
+      "build_num": null,
+      "dwelling_number": "306",
+      "family_number": "306"
+    },
+    {
+      "location_id": 790,
+      "record_id": 790,
+      "street_name": "Albany Ave",
+      "house_num": "22",
+      "build_num": null,
+      "dwelling_number": "307",
+      "family_number": "307"
+    },
+    {
+      "location_id": 791,
+      "record_id": 791,
+      "street_name": "Albany Ave",
+      "house_num": "22",
+      "build_num": null,
+      "dwelling_number": "308",
+      "family_number": "308"
+    },
+    {
+      "location_id": 792,
+      "record_id": 792,
+      "street_name": "Albany Ave",
+      "house_num": "23",
+      "build_num": null,
+      "dwelling_number": "309",
+      "family_number": "309"
+    },
+    {
+      "location_id": 793,
+      "record_id": 793,
+      "street_name": "Albany Ave",
+      "house_num": "23",
+      "build_num": null,
+      "dwelling_number": "31",
+      "family_number": "31"
+    },
+    {
+      "location_id": 794,
+      "record_id": 794,
+      "street_name": "54th Ave",
+      "house_num": "23",
+      "build_num": "8913",
+      "dwelling_number": "311",
+      "family_number": "311"
+    },
+    {
+      "location_id": 795,
+      "record_id": 795,
+      "street_name": "54th Ave",
+      "house_num": "23",
+      "build_num": "8913",
+      "dwelling_number": "312",
+      "family_number": "312"
+    },
+    {
+      "location_id": 796,
+      "record_id": 796,
+      "street_name": "54th Ave",
+      "house_num": "23",
+      "build_num": "8913",
+      "dwelling_number": "313",
+      "family_number": "313"
+    },
+    {
+      "location_id": 797,
+      "record_id": 797,
+      "street_name": "Richmond",
+      "house_num": "18",
+      "build_num": null,
+      "dwelling_number": "314",
+      "family_number": "314"
+    }
+  ]
+}
